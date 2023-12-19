@@ -1,0 +1,640 @@
+
+
+Kien fluas roj’ Castalie? 
+
+“Teknologio estas logiko de faktoj kreataj de homa agado, ideologio estas logiko de ideoj, t.e. logiko de sencoj ekstraktitaj el faktoj, — la sencoj, kiuj montras direktojn, rimedojn kaj formojn por krei novajn faktojn”.
+
+M. Gorjkij
+
+I. Enkonduko
+Ĉiu krea procezo ĝenerale inkludas tri etapojn:
+
+elekto de celo
+elekto de rimedoj por atingi la celon
+serĉo de metodo — kiel uzi la elektitajn rimedojn por atingi la celon.
+
+Ekzemple, Lev Tolstoj celis montri du animstatojn de Andreo Bolkonskij — deprimon kaj reviviĝon. Monda literaturo konas la rimedon de Adamo — komparo. Tolstoj trovis interesan aplikon de komparo — li uzas ĝin dinamike. Komparante la animstatojn de A. Bolkonskij kun kverko, la verkisto ricevis eblon transdoni la du animstatojn per unu, la sama rimedo.
+
+Celojn diktas al ni la vivo mem. Nun la uzataj rimedoj estas sufiĉe pristuditaj en la tradicia artoscienco — oni devas nur elekti la bezonatajn. Por nomi la trian etapon ni ne senkaŭze uzis la vorton “serĉo”. Oni povas eĉ precizigi: “serĉo per la metodo de provoj kaj eraroj”, t.e. per hazarda variantumado. “La serĉo okazas blinde, simile al nokta aviada flugo dum la militaj jaroj”, — kiel skribis poeto J. Vinokurov.
+
+Ĉar hazarda variantumado en efektivo estas nepriskribebla kaj nekonceptebla, aperis firma opinio, ke nur iu mistera geniulo kapablas trovi la bezonataĵon. Estas mirinde, sed tiu senklariga klarigo plene kontentigas ĉiujn, lasinte solvadon de la problemo al la Ĉiopova Dio, kiu iujn dotas, aliajn maldotas per talento. Aperis eĉ hierarkio de tiu “dia fajrero” traktata tute serioze: sentalenta, naturdotita, kapabla, talenta, genia. Kion signifas tiuj vortoj, kia estas diferenco? — la demando estas nerespondebla, la hierarkion de sensignifaj kvalitoj ne eblas ekspliki.
+
+Kiel serĉi metodojn por uzi artajn rimedojn? Kiel serĉi novajn rimedojn? Anstataŭ solvi tiujn problemojn oni nur variantumas atendante iun “heliĝon”, epifanion, subitan venon de taŭga ideo. Tiel estis ĉiam, dum pluraj jarcentoj. Finfine aperis tute natura opinio pri eterneco de tiu stato, tia aliro al la problemo. Neniun meditigis la vortoj de K. Marx: “hazardo estas nekonceptita leĝeco”. En nenies kapon venis la penso: ĉu, eble, oni povas ekstrakti leĝecojn el la akumulitaj dum jarmiloj rezultoj de “heliĝoj”?
+
+En tekniko oni jam respondis tiun demandon pozitive. Teorio por solvado de inventaj taskoj (TSIT, ruse TRIZ), la unua scienco pri metodo, montris, ke tekniko evoluas laŭ certaj leĝoj, kaj donis eblon konscie (kaj tial pli riĉe) krei, anstataŭ atendi “heliĝon”.
+
+Ĉu eblas tiaspeca teorio en arto? Ĉu ĝi estas bezonata? Certe, tekniko estas grava afero, tamen ĉiuvoje — ĉiusojle oni aŭdas kategoriajn asertojn pri tio, ke arto, kompare al tekniko estas afero multe pli subtila, grava, komplika kaj nekonceptebla.
+
+Eĉ profesiuloj de arto preskaŭ unuanime respondas: ne eblas kaj ne bezonatas. Oni devas eduki kreivajn individuojn, doni al ili senbaran krean liberon — kaj ĉio iros glate.
+
+Ni provu respondi la demandon pri neceso de la teorio el socia vidpunkto, sed ne el la vidpunktoj de apartaj homoj. Por tio ni analizu evoluon de la du gravaj sociaj karakterizoj. La unua estas la t.n. estetika (arta) bezono de la socio. La dua montras, kiel kontentiĝas tiu bezono per ĉefverkoj — do, temas pri arta oferto. Dum jarmiloj la oferto plene kontentigis la bezonon, la distanco inter tiuj estis minimuma, ĉar la metodo de provoj kaj eraroj sufiĉis por tio.
+
+Statistikaj esploroj ebligas desegni diagramon. Horizontala akso montras epokon, la vertikala — artan bezonon kaj artan oferton (stri-linio).
+
+Kiel videblas el la diagramo, komence de la 20-a jarcento okazis krizo. Oferto restis preskaŭ la sama, sed la bezono abrupte kreskis. Iuj vidas la kaŭzon en tio, ke pligraviĝis rolo de amaskomunikiloj. Tamen tia klarigo veras nur parte. La ĉefa kaŭzo evidentas en tio, ke grave plirapidiĝis ritmoj de la vivo, homo pli kaj pli ofte renkontas diversajn neprognozeblajn situaciojn. Kiel agi, kion elekti? — tiujn demandojn devas respondi arto, ĉiam pli ofte, pli komplete. Sed ve, la produktiveco de la naturo koncerne “geniulojn” estis limigita. Arto provas nun fliki la kreskantan fendon inter la bezono kaj oferto per abrupta malaltiĝo de la kvalita nivelo de la verkoj. Tiun konsiderindan malprogreson de kvalito rimarkas eĉ profesiuloj. Kaj ili provas kvietigi la socion per trankviliga pilolo: ĉiam, — ili diras — okazis malprogresaj periodoj, post kiuj ĉiam sekvis periodoj de progreso; do, atendu, post la nuna malprogreso ree okazos progreso. Jam dum kelkaj jardekoj en periodaĵoj regule aperas artikoloj, kies aŭtoroj entuziasme priskribas simptomojn de nova progresperiodo en arto. La artikoloj aperadas, sed la progreso forestas.
+
+Tiaspecaj profetoj forgesas konsideri unu bagatelon: malprogresajn periodojn en arto ĉiam kaŭzis malprogresoj de la bezono. Kiam malaktiviĝis la socia vivo (plejofte en “antaŭŝtormaj periodoj”) — tiam malkreskis ankaŭ la arta bezono. Se konsideri tion, evidentiĝas, ke la nuna situacio aperas la unuan fojon en la historio, kaj klarigi ĝin per precedencoj sensencas kaj senutilas. Necesas radikale solvi ĝin. Oni povas realigi tion nur helpe de teorio.
+
+Do, la bezono de la teorio estas evidenta. Kaj nun ni traktu la problemon: ĉu estas eble krei la teorion?
+
+II. Pri kio temas?
+La unua malkovro, kiu tranĉas la okulojn dum konatiĝo kun artsciencaj verkoj, estas manko de pli-malpli klara difino de arto. Oni povas trovi nur kelkajn priskribojn, sed neniu el tiuj eksplikas la esencon de la fenomeno. Malgraŭvole aperas dubo: kiel okupiĝi pri scienco, kiu ne kapablas determini eĉ la objekton de sia esploro? Plua konatiĝo montras, ke ankaŭ la metodo de l’ artscienco estas nedifinita. Iuj esplorantoj okupiĝas pri kronologia priskribo, siaspeca statistiko, la aliaj ŝvitas evidentigi radikojn de verkoj en hazardaj kaŭzoj. La ekstreman pinton de la lasta metodo manifestas aperinta lastatempe “pura kritiko”, kies karakteriza reprezentanto en Sovetunio estas L. Annenskij. Laŭ lia opinio kritiko tute ne okupiĝu pri didaktiko, ĝi mem kreu artefaktojn — jen bela celo por la kritiko.
+
+Do, ni venas al konkludo, kiu por multaj estas tre malagrabla — la nuntempa artscienco ne estas scienco. Fosi plu en la sama direkto estus vana kaj senrezulta penado. Oni kreu novan artologion, kies bazo estu sistem-dialektika koncepto de arto. Objekto de tiu artologio estu arto kiel objektiva, materia, leĝeca procezo. Karakteriza trajto de la metodo esencas en tio, ke la tutan gigantan masivon de artaj atingoj oni esploru ne statike (kiel en tradicia artscienco), sed dinamike. Tiaspeca esplorado donos eblecon trovi evoluajn leĝojn de arto.
+
+Jam la unuaj provoj de tia esploro venigis al rezultoj, sur kiuj baziĝas plua laboro:
+
+Arto estas procezo, kies leĝoj estas objektivaj kaj sendependaj de aparta homa volo. Tiuj leĝoj estas koncepteblaj, oni povas kaj devas malkovri ilin kaj uzi por konscia evoluigo de arto.
+
+La plej ĝeneralajn leĝojn liveras al ni la materiisma dialektiko. Tamen oni bone scias, ke tiom grandskalaj iloj ne uzeblas por konkretaj taskoj senpere. Necesas kompreno kiel dialektikaj leĝoj manifestiĝas en arto, necesas konstrui iun “ponton” inter dialektiko kaj arto.
+
+Kaj ree nin bremsas foresto de difino por arto. La tradicia artologio anemie rezignis difini la propran objekton. Nu, ni vidu, ĉu ni povos trovi helpon aliloke?
+
+Infanpsikologoj el Kubo post ampleksaj esploroj ricevis tre interesajn rezultojn. Ili konstatis, ke infanoj tute ne perceptas senperajn edifojn. “Ne licas rompi ludilojn” — tiu frazo por infanoj estas nur sensenca aerskuo. Male, tre efike influas ilin komparo al herooj de fabeloj: “Vi turmentas vian pupon kiel Barabaso!” — nur tian formon de edifo akceptas infanoj. Por influi infanon, necesas montri al li konvinkan porkomparan ekzemplon.
+
+Ĉu nur naivaj infanoj trafas en tiun primitivan kaptilon? Tute ne! La adolta pensmaniero neniom diferencas ĉi-rilate disde la infana. Por kompreni ion ajn, ĉiu homo bezonas konvinkan kaj ilustran ekzemplon.
+
+Spite al kelkaj psikologoj, oni povas konvinke konfirmi, ke forestas principa diferenco inter arta kaj scienca pensmanieroj. Ja ne senkaŭze en scienco ludas tiom gravan rolon la nocio “fizika senco”. Ni rememoru, tra kiuj obstakloj evoluis kompreno de la atom-strukturaj leĝoj. Trapasis jaroj antaŭ ol oni trovis la ilustran koncepton de tiuj leĝoj. Pensoj de sciencistoj ne estas formuloj, spite al opinio de naivaj artistoj. Formuloj nur kvante priskribas la trovitan figuran koncepton. Nur malofte okazas, ke post kalkuloj aperas nova formulo, kaj tiam trovi ĝian “fizikan sencon” estas jam treege komplika tasko. Tamen sen la lasta, scienco ĝenerale ne akceptos tiun formulon. Eĉ tiom seka scienco kiel jurisprudenco ne povas ekzisti sen ekzemploj — precedencoj.
+
+Pli simpla ekzemplo. Por homo kutimiĝinta mezuri distancojn per kilometroj tre malfacilas uzi mejlojn. Sed post kelkaj veturoj, kies distancoj mezuratas mejle, ĉio normaliĝas. Ja aperas ekzemplo, kun kiu oni povas kompari, kiun oni povas “pripalpi” kaj “priflari”.
+
+Scienco okupiĝas pri kvanta priskribo de la mondo. La objekto de arto estas rilatoj inter homoj, socio kaj naturo. Sed ĝi ne celas kvantan priskribon. La celo de arto estas alia — montri ekzemplojn, kompari artan temon kun jama prezento de konata objekto aŭ fenomeno.
+
+Diversaj specoj de arto uzas diversajn komparajn rimedojn. Teatro uzas homojn-aktorojn, kino kaj televido — teknike reproduktitajn bildojn, literaturo — vortpriskribojn de fenomenoj, muziko komparas psikofiziologiajn efikojn de fenomenoj kun efikoj de certaj son-kombinoj, (alivorte, muziko serĉas tiajn son-kombinojn, kiuj vekus la samajn psikofiziologiajn efikojn, kiel la “priskribataj” fenomenoj).
+
+Do, jam konkludeblas provizora, porlabora difino de arto:
+
+Arto estas metodo priskribi la mondon per speciale kreita ekzemplo.
+Artaĵo estas ekzemplo, kiu manifestas aŭtoran vidpunkton koncerne iun problemon.
+
+Kaj nun facilas difini kriteriojn, kiuj karakterizas efikon de artaĵo. Do — “forta” verko aperas, kiam la aŭtora vidpunkto:
+
+konformas al objektivaj bezonoj de la socio aŭ progresivaj sociaj tavoloj;
+estas konvinka;
+estas nebanala.
+
+Ni allasu, ke aŭtoro havas vidpunkton konforman al sociaj bezonoj. Li disponas gigantan fonduson de rimedoj, praktike elprovitaj dum jarcentoj. Kaj restas bagatelo — pere de tiuj rimedoj krei ekzemplojn, kiuj respegulas lian vidpunkton.
+
+Kiel realigi tion?
+
+Ĝuste por respondi tiun ĉi demandon, ni lanĉis la laboron.
+
+III. Atomoj de evoluo
+Se ni agnoskas, ke arto estas procezo, kiu senĉese evoluas, tiam por komenco ni devas trovi tiun minimuman diferencon, tiun “atomon de evoluo”, kiu povus servi al ni kiel baza elemento. Ĝis nun tiaspeca esploro en praktiko fiaskis. Efektive, ĉu kompareblas poemoj de Ĵukovskij kaj Puŝkin, skulptaĵoj de Pisano kaj Michelangelo, simfonioj de Mozart kaj Beethoven? Vere, ni povas trovi distingajn trajtojn, sed kiel evidentigi evoluon? Tamen neniu kuraĝas aserti, ke arto ne evoluis, ekzemple, sur la granda distanco inter prahistoriaj desegnaĵoj kaj Picasso. Do, evidentas kontraŭaĵo.
+
+Unu el la plej interesaj provoj solvi tiun kontraŭaĵon estis farita de Benedetto Croce. Li hipotezis, ke arto evoluas en kadroj de t.n. “progresivaj cikloj”. Aperas geniulo, kiu lanĉas tiun ciklon, la adeptoj “priplugas”, evoluigas la saman materialon kaj progresigas ĝin ĝis supera arta nivelo — poste venas malprogresa periodo. Post kelka tempo nova geniulo malkovras novan materialon — komenciĝas nova ciklo.
+
+Tiu inĝenia strukturaĵo ne rivelas tamen diferencon inter praaj enkavernaj desegnaĵoj kaj tiuj de Picasso. La kontraŭaĵo restis nesolvita.
+
+La solvo esencas en tiu, ke novecon de artaĵo oni konstatu komparante ĝin ne kun konkreta prototipo, sed kun nivelo, kiun atingis la donita rango de artaj sistemoj: ĝenro, arta rimedo, temo, suĝeto k.s. Tiun nivelon ni nomu ĝeneraligita prototipo. Ekzemple, en komenco de la 19-a jarcento maturiĝis poema ĝenro, kiel versa verko kun romantika temo. La plej altan nivelon de tiu ĝenro en rusa literaturo atingis poemoj de Ĵukovskij. Nun ni jam povas taksi la ŝanĝon enigitan en la ĝenron de Puŝkin. En la ĝeneraligitan prototipon li enigas la temon de ĉiutaga vivo (“Grafo Nulin”).
+
+Mozart stabiligis komprenon de simfonio, kiel orkestran ĝenron de muziko (“viena skolo”). En tiun ĝeneraligitan prototipon Beethoven enigis ŝanĝon — en lia 9-a simfonio sonas ĥoro.
+
+La evoluon de arto oni esploru konsiderante la ĝeneraligitan prototipon.
+
+Ŝanĝoj povas esti diversgradaj. Ni klasifiku ilin laŭ kvin niveloj, kiujn ni traktu en la inversa ordo, ilustrante ilin per literaturaj, muzikaj kaj pentroartaj ekzemploj.
+
+5-a nivelo — invento de nova ĝenro aŭ speco de arto. Ekzemploj: invento de scienca fikcio (J. Verne), simfonio (Scarlatti), portreto (anonimo).
+
+4-a nivelo — invento de nova tipo de arta rimedo. La nova tipo ofte kaŭzas novan subĝenron. Ekzemple, H. Wells inventis novan artan rimedon — transporti la observanton laŭ tempo. Tio kaŭzis novan subĝenron — la malutopion. Apliko de ĥoro en la tradicie pure instrumenta simfonio permesis al Beethoven lanĉi subĝenron de filozofia simfonio. Rusaj pentristoj en la 17-a jarcento aŭdace transiris de la kanona fronta portreto al la profila — tio ebligis “vivigi” figurojn.
+
+3-a nivelo — invento aŭ inĝenia uzo de konkreta esprimrimedo. Ekzemple, A. Tolstoj en “Hiperboloido de inĝeniero Garin” neordinare uzas personigon: “La historio estis spronita, la historio ekgalopis, kaj sub ĝiaj oraj hufoj ektintis la kranioj de la stultuloj”. Mozart inventis originalan manieron de modulado (intertonala transiro). Auguste Renoir en la “Portreto de aktorino Jeanne S”, celante montri lumradiantan vizaĝon de la aktorino (“...ŝi estis mirinda junulino, ŝi radiis lumon ĉirkaŭ si...”) malheligis ŝiajn brakojn kaj la malsupran parton de la portreto.
+
+2-a nivelo — negravaj ŝanĝoj en kadroj de konata strukturo. Substituo de konataj rimedoj al aliaj, same konataj rimedoj en kadroj de unu ĝenro. Romano de Jules Verne “Matias Sandor” kopias “Grafon Monte-Cristo”, kaj la tuta diferenco manifestiĝis nur en tio, ke la protagonisto uzas por sia venĝo elektroŝipojn kaj aliajn teknikaĵojn tipajn por J. Verne. Preskaŭ ĉiuj kantoj de sovetiaj kant-komponistoj N. Bogoslovskij, L. Ladova, R. Pauls estas nur negravaj varioj de la sama muzika temo, kiu troveblas en multaj eŭropaj kaj latinamerikaj popolaj kantoj, en amatoraj kantoj, en ciganaj kantoj k.t.p.
+
+Estas interese kompari la pentraĵojn “Sinjorino kun ermeno” de Leonardo da Vinci kaj “Zane” de G. Griva. Ili diferencas nur en tio, ke la dua prezentas sur sia pentraĵo alian personon kaj substituis ermenon kun kuniklo. Leonardo da Vinci havis konkretan celon — montri la karakteron de la virino. Pentrinte ermenon, li atingis la celon. Eble ankaŭ Griva ne hazarde enigis kuniklon, sed ŝia celo ne estas videbla, kaj tro perpleksas la simileco al la fama pentraĵo.
+
+1-a nivelo — ordinara plagiato. Distinge de la pli altaj niveloj, verkoj de la unua nivelo ĉiam havas konkretan prototipon. En la rakonto “EPICAC” K. Vonnegut montras enamiĝintan komputilon, kiu verkas poemojn por junulino. Substituinte poemojn al matematika tasko V. Muĥanovskij kunmasonis rakonton “La tasko”. En 1858 M. Balakirjev komponis “Uverturon laŭ temoj de tri rusaj kantoj” kie aplikis la temon de “En kampo staris betulo”. En 1877 P. Ĉajkovskij, neniom dubante, kreis laŭ tiu temo la finalon de sia 4-a simfonio. Pentraĵo de Rembrandt “Danae” en la unua varianto precize kopiis la samtitolan pentraĵon de Caracci.
+
+Necesas pli detale pritrakti la trian nivelon. Ĝi enhavas du subnivelojn, kiuj esence diferencas. La esprimrimedoj povas esti ĝeneralaj, komunaj por la tuta ĝenro aŭ eĉ por kelkaj ĝenroj (unua, aŭ supra subnivelo) kaj konkretaj, uzeblaj nur en konkretaj verkoj (dua, aŭ malsupra subnivelo).
+
+La dua, malsupra subnivelo kutime realiĝas kiel konkretiĝo de la unua. La citita frazo el “Hiperboloido de inĝeniero Garin” estas konkreta, taŭgas nur por tiu verko, tamen ĝi reprezentas la esprimrimedon de la unua subnivelo — la personigon. Inventita de Mozart modulada maniero (la unua subnivelo) estas uzita, ekzemple, en opero “Don Giovanni” tute konkrete, oni ne rajtas samforme ripeti ĝin en alia verko. En pentroarto la unuan subnivelon bone prezentas leĝoj de perspektivo, uzo de ombroj k.s.
+
+Vaste cirkulas la opinio, ke arto kvalite evoluas “demalsupre supren”, t.e. el amaso de “malfortaj” verkoj fin-fine elkreskos “forta”, el sentalentuloj elkreskos geniulo. En efektivo la direkto de progresa evoluo estas inversa — “desupre malsupren”. Evoluo de simfonio bone ilustras tion:
+
+En la 16-a jarcento oni nomis “simfonio” apartajn muzikaĵojn aŭ uverturojn al operoj. Tiutempaj uverturoj estis unutipaj muzikverkoj en kies kadroj disvolviĝis unu temo. Poste la venecia skolo grave ŝanĝis uverturon — la venecia uverturo konsistis el du temoj (malrapide + rapide). Kaj jam en la jaro 1681 Scarlatti inventis la napolan uverturon, kiu konsistis el tri partoj (rapida + malrapida + rapida) Tio estis tiam invento de la kvina nivelo, ĉar fundamente determinis simfonion kiel kompleksan muzikverkon. Sed en la ekburĝona etapo la nova muzikĝenro restis en kadroj de opero, kaj nur en la jaro 1730 apartiĝis de la lasta. Kiel apartan ĝenron simfonion formis Sammartini, Richter, Stamic, Monn, Wagenseil kaj Gossek. Post ili Haydn kaj Mozart kreis la klasikan simfonion, laŭ kiu ĝi havis kvar partojn, al ĉiu parto ecis la aparta rapideco kaj skemo de temaj interrilatoj. La stafeton transprenis Mozart: li provis verki 3- kaj 5-partajn simfoniojn, ŝanĝi rapidecon de la partoj, eksperimentis pri temo-skemoj. Duope kun Haydn ili malkovris multon da fekundaj simfoniaj subĝenroj (la 4-a nivelo). Samtempe oni serĉis konkretajn esprimrimedojn. La lastaj ne eliris kadrojn de la viena skolo — do, apartenas al la tria nivelo, sekve finlaboris la vienan skolon. Post li oni povis aŭ verki sur la dua nivelo, aŭ transiri al nova kvara nivelo. Tiun transiron realigis Beethoven mem — en sia Naŭa simfonio li aplikis ankaŭ ĥoron.
+En la unua duono de la 19-a jarcento estis ellaboritaj la ĉefaj temoj de simfonio: lirika, epika (Schubert), pejzaĝe-ĉiutageca (Mendelssohn-Bartholdy) simfonioj. La plej altan esprimivon en kadroj de tiuj temdirektoj atingis Schuman (per la 3-a-nivelaj rimedoj).
+Beethoven teme agordis ĉiujn kvar partojn de simfonio (la 5-a simfonio) — ankaŭ tio estas rimedo sur la 3-a nivelo.
+Tamen iom post iom esprimrimedoj de la tria nivelo elĉerpiĝis. Pli kaj pli malfacilas verki interesige. Haydn verkis 104 simfoniojn, Mozart — proksimume 50, Beethoven kaj Dvorak — jam po 9, Berlioz kaj Saint-Saens — nur po 3. Oni jam ne povis eviti ripetojn. En ĉiuj ses simfoniojn de P. Ĉajkovskij preskaŭ forestas novaj trovaĵoj de la tria nivelo, li eĉ ŝtelis temon de Balakirjev. La tradicia simfonio, kian kreis Haydn, elĉerpis sian eblaron. Beethoven finkreinte “vienan klasikan skolon” de la simfonio, estis devigita reveni al pli altaj niveloj. Kaj jen, en la 9-an simfonion li enigas ĥoron — kreado je la kvara nivelo. Kaj denove vigliĝis la laboro.
+Novan kvaran nivelon en tereno de temoj fondis Berlioz en la 30-40-aj jaroj de la 19-a jarcento — li komencis verki simfoniojn laŭ literaturaj temoj, ekzemple, “Romeo kaj Julia”, “Haroldo en Italio” k.a. Li evoluigis ankaŭ la inventon de Beethoven: simfonio kun ĥoro. Lian 6-partan simfonion partoprenas orkestro, ĥoro kaj apartaj kantistoj (la 3-a nivelo). Berlioz enigis en simfonion ankaŭ tiajn ĝenrojn kiel konĉerto, oratorio. Ankoraŭ unu enmeton sur la 3-a nivelo faris Sain-Saens: en simfonio li uzis orgenon kaj rimedojn de la orgena muziko. Dvorak en la jaro 1893 en la simfonion “Voĉoj el la Nova Mondo” enigis elementojn de negra kaj indiana muziko (la 3-a nivelo).
+La novaj tendencoj denove ekevoluis ĝis atingis elĉerpiĝon de trianivelaj esprimrimedoj, kaj nun en la simfonia ĝenro ni observas gravan malprogreson nur iomete diluitan per eksperimentoj de I. Stravinskij kaj S. Prokofjev (uzo de disonancaj intervaloj). Oni povas prognozi, ke la sekva etapo ne devenos el la amaso de ŝablonaj nuntempaj simfonioj, sed rezultiĝos el radikala rompo de la ĝenraj kanonoj.
+
+El la supre prezentita skemo pri evoluo de arto konkludeblas ankoraŭ unu principe grava konsidero: nur verkoj de la 5-a, 4-a kaj 3-a niveloj kontribuas al evoluo de arto. La 2-a kaj 1-a niveloj estas evitendaj. Ili ne preparas la grundon por geniuloj, kiel asertas la rutina opinio, sed malhelpas al arto, ŝablone obligante ĝin. La geniuloj kreas nur sur la altaj niveloj.
+
+Nun ni venis al la kriterioj por selekti la materialon por plua laboro: ĉiuj sekvontaj konkludoj baziĝas sur analizo de altnivelaj verkoj (la 3-a, 4-a kaj 5-a niveloj).
+
+IV. El vivo de sistemoj
+Ĉiu scienco devas trovi por si la minimuman eron, kiu determinas la tutan komplekson da ecoj de la esplorataj objektoj. En kemio ĝi estas molekulo, en matematiko — nombro. La molekulo de arto estas arta sistemo. Kio ĝi estas ni vidu el ekzemploj:
+
+Ekzemplo 1. La ĵazo. Ĝi estas grandega sistemo, prezentanta la ĝenron de la muziko. Ĝi inkludas la artistojn (muzikistojn, kantistojn), specifajn principojn (voĉan improvizon surfone de akompana improvizo), specifajn muzikrimedojn (ĵaz-gamojn k.s.), propran komplekson de instrumentoj (blovmuzikiloj, fortepiano, kontrabaso, drumo k.t.p.), proprajn verkojn, propran temaron — t.e. subsistemojn. De alia flanko la ĵazo estas parto de supersistemo — la muziko, kiu inkludas ankaŭ aliajn ĝenrojn.
+Ekzemplo 2. La tragedio de Shakespeare “Reĝo Lear”. La sistemo konsistas el la interagantaj herooj. Konsiderindas ankaŭ la grupoj da herooj: la protagonisto — Lear; la pozitiva grupo — Cordelia, bufono; la negativa grupo — ceteraj filinoj de Lear kaj iliaj edzoj; la neŭtrala grupo — servistoj, soldatoj k.t.p. Tiuj grupoj estas subsistemoj. Kaj la supersistemo ĉi tie estas la tuta ĝenro de tragedio.
+Ekzemplo 3. Kapelo de Medici farita de Michelangelo. Ties subsistemoj estas — la konstruaĵo mem, la statuoj kaj bareliefoj interne de la kapelo, la murpentraĵoj. Facilas rimarki, ke la kapelo estas parto de kelkaj supersistemoj — arkitekturo, skulpturo, pentroarto.
+Ekzemplo 4. Rolo en spektaklo (kiel krea manifestiĝo, verko de la aktoro). La sistemo konsistas el voĉaj, movaj kaj mimikaj aktoraj rimedoj, teksto de rolo, k.t.p. Eniras la supersistemon: spektaklo (kiel verko de reĝisoro).
+Ekzemplo 5. Opera ario. La sistemo estas strukture simila al kanto (el kiu ĝi devenas). Sed ĝi eniras alian supersistemon — operon — kaj tial havas iom alian karakteron de la subsistemoj, ol la kanto.
+Ekzemplo 6. La pentraĵo. Konsistas el la interagantaj pentritaj objektoj — homoj, aĵoj, naturo, ties prilumo kaj koloroj, k.t.p. La supersistemo — pentroarto.
+Ekzemplo 7. La konstruaĵo. Ĝi konsistas el la konstrukciaj elementoj (fundamento, muroj, tegmento) kaj ornamaĵoj (pilonoj, kornicoj, skulptaĵoj). La konstruaĵo mem estas parto de arkitektura komplekso (grupo de konstruaĵoj, naturo, aliaj elementoj, ekz. monumentoj). Ĉion ĉi unuigas arkitekturo.
+
+Tiuj ekzemploj sufiĉas por kompreni, ke arto estas sistemaro, ke ties sistemoj formas longan kaj disbranĉitan hierarkion. Sur ĉiu ŝtupo de la hierarkio troveblas pli aŭ malpli komplikaj sistemoj.
+
+Arta sistemo — estas komplekso de interagantaj rimedoj por ilustra prezento de artobjekto.
+
+La objekto de arto povas esti: eventoj, sentoj, ideoj, situacioj, eksteraj kaj internaj ecoj, interagoj kaj interrilatoj de la socio, homo kaj naturo k.t.p.
+
+La arta sistemo — poemo — konsistas el kvar subsistemoj — strofoj; ĉiu strofo — el du linioj (por poemo tio estas sub-subsistemoj); ĉiu linio — el vortoj (sub-sub-subsistemo). Sed tio estas strukturo “geometria”. Poemo havas ankaŭ artan strukturon, ties artaj subsistemoj estas grupoj de figuroj. Grupo, kiu priskribas ecojn de aviado (1, 2); grupo, priskribanta eksteraĵon (3, 4, 5, 7); grupo, priskribanta la protagoniston (6). La unua grupo enhavas konkretajn figurojn (sub-subsistemoj) pri silento (1) kaj pri obskuro (2). La trian grupon eniras figuro 6 kaj, pro sia aldona, dua funkcio, figuroj 1 kaj 2, ĉar ili ankaŭ nerekte priskribas animstaton de la protagonisto.
+
+Ĝis nun ni malleviĝis laŭ la hierarkia ŝtuparo de sistemoj. Oni povas fari tion senlime. Bedaŭrinde, pasinte la nivelon de figuro, ni eliras el la kadroj de arto. Ankaŭ vorto estas sistemo, sed jam ne arta — lingvistika. Sed ni leviĝu supren.
+
+Se ni nomas la poemon sistemo, la verkaro de W. Auld estas por ĝi la supersistemo. Esperanto-poezion oni povas nomi super-supersistemo, la poezion entute — super-super-supersistemo, k.t.p. Cetere, sistemo “poemo” eniras alian supersistemon: parton de la libro, dediĉitan al W. Auld. La tuta libro estas super-supersistemo, biblioteko — super-super-supersistemo k.t.p. senlime. Ankaŭ tio estas reala hierarkio, kvankam tute ne arta.
+
+Tia divido estas “absolute relativa”. Same prave ni povas konsideri sistemo grupon de figuroj. Tiuokaze la poemo estos supersistemo kaj la figuro — subsistemo. Do, ni interkonsentu nomi sistemo tiun minimuman parton, kiun ni bezonas en ĉiu konkreta okazo.
+
+Kaj ankoraŭ unu nocion necesas difini antaŭ ol fini tiun ĉi tedan parton de la artikolo: antisistemo. Imagu ni jenan sistemon — por montri laboron de poeto oni ofte uzas Pegazon. Poeto rajdas sur Pegazo — la figuro estas bona kaj neimageble banala. Kaj jen W. Auld en poemeto “Apologio” konstruas malan figuron — antisistemon por la kutima surpegaza rajdanto:
+
+Mian pegazon
+ne rajdas mi senmanke:
+ĝi selis min
+kaj spronas min ĝissange
+
+(la sama libro, p. 13)
+
+Ĉiu arta sistemo ekzistas nur en rilata komplekso al aliaj artaj sistemoj, al la nivelo de artkonsumanto kaj de la socio. En la epoko de Puŝkin estis principe neakcepteblaj la radikaj fonetikaj rimoj, kaj nun la puŝkineskajn rimojn oni perceptas banalaj. Muzikajn intervalojn, kiuj nuntempe estas la bazo de muziko (tercioj), en la 14-a — 16-a jc. oni taksis kiel disonancaj. La uzatajn tiam intervalojn (kvinto, seksto) nun oni nomas “vakaj”.
+
+Arto ĉiam progresas, uzante rimedojn, kiuj pli frue estis absolute neakcepteblaj.
+
+La socio kaj la apartaj konsumantoj devas iom post iom alkutimiĝi al novaj rimedoj. La “saltoj” principe ne estas eblaj, ĉar oni simple ne perceptus ilin. Nur kiam la ebloj de unu rimedaro elĉerpiĝas, arto povas transiri al alia rimedaro. La nivelo iom post iom sinkas de la kvina ĝis la tria, kaj nur poste povas transiri al nova kvina nivelo. (Necesas ankoraŭfoje emfazi, ke la dua kaj la unua niveloj ne estas bezonataj — ili estas la balasto de arto).
+
+Se diri pli ĝenerale, la artaj sistemoj neniam stagnas — ili evoluas. La procedojn de ties evoluo bone ilustras la sekva ekzemplo.
+
+Ekzemplo 8. En antikva Helenujo teatraj spektakloj ĉiam finis la festojn. La festotagon ordinare komencis bazaro, poste okazis publika pripolitika diskuto kaj vespere oni prezentis spektaklon. La teatraĵo povis temi pri Helenujo, Fenicio, Olimpo, pri urbo aŭ kamparo. Kiel do oni povus informi homojn pri loko, en kiu okazas eventoj de la spektaklo?
+Kaj jen ekde frua mateno tra la bazara placo promenas speciale dungitaj homoj. Ili rakontas al ĉiuj pasantoj, ke la vespera spektaklo prezentos vilaĝon sur riverbordo, ke maldekstre situos monteto, kaj dekstre — arbaro. Aŭ ion alian, depende de la bezono.
+Pasis jarcentoj. La teatro en Mezepoka Eŭropo jam ne estis la kulmino de la tuta tago. Ĝi iĝis nur unu el pluraj distroj. Homoj, okupitaj pri propraj aferoj, kolektiĝis en teatro nur antaŭ komenco de spektaklo. Aperis la kontraŭaĵo: necesas rakonti pri la loko, sed la tradiciaj rimedoj ne ebligas tion. Kaj jen, la rakonton oni enmetas en la teatraĵon mem. La spektaklon prefacas apero de aktoro (Prologo), kiu en stilo de tujota teatraĵo klarigas, ke maldekstre estas monteto, dekstre — arbaro, kaj ke la spektaklo rakontas pri antikvaj tempoj.
+Tiu eblo ekzistis dank’ al tiutempa tradicio — la tereno de enteatraĵa agado senŝanĝis dum la tuta spektaklo. Tamen iom post iom la dramaturgio malkontentiĝis pri tiuj kadroj — la enteatraĵa agado ŝanĝiĝis kelkfoje dum spektaklo. La Prologo jam ne helpis. Denove aperis kontraŭaĵo. Ĝin solvis Shakespeare. Li enmetis la priskribon de agadloko en la parolon de herooj. Liaj herooj diras jam ne “mi amas vin” aŭ “mi mortpikos vin”, — sed “sur tiu pitoreska deklivo mi konfesos al vi mian amon” aŭ “apenaŭ pasos minuto, kiam ĉi tiu moroza arbaro atestos vian morton”.
+La teatraĵoj de Shakespeare ne hastemas. Ties eventoj postsekvas same, kiel fluis la tiama vivo. Sed ritmoj de la vivo pli kaj pli rapidiĝas. La teatraĵoj iĝas pli kaj pli streĉaj, pli kaj pli movoplenaj.. En tiaj kondiĉoj jam ne permeseblas troŝarĝi replikojn de herooj per priskriboj de agadlokoj. Denove — kontraŭaĵo.
+Tiam aperis la dekoracioj, kiujn ni vidas en la teatro ĝis nun.
+
+Ĉi-supra ekzemplo tre oportunas, ĉar ĝi samtempe ilustras kelkajn evolu-leĝojn de artaj sistemoj.
+
+I. La artaj sistemoj evoluas tra aperado kaj solvado de kontraŭaĵoj. La kontraŭaĵoj aperas pro malsama evoluo de artosistemaj elementoj kaj kondiĉoj de ties ekzisto.
+
+II. Post elĉerpiĝo de evoluaj rezervoj, la artosistemo transiras al supersistemo kiel unu el ties elementoj, kaj plu evoluas je nivelo de la supersistemo. (En la ekzemplo pri teatro okazis unuigo kun la pentroarto. Plu evoluas la dekoracioj mem).
+
+III. La artosistemoj evoluas strebante plialtigi la gradon de idealeco. La ideala artosistemo estas sistemo, kiu tute forestas, sed ties funkcioj plenumiĝas.
+
+“Idealiĝo” de artosistemoj ordinare sekvas tra la kvar etapoj:
+
+uzo de ekstersistemaj esprimrimedoj
+uzo de esprimrimedoj el supersistemo
+uzo de unu el subsistemoj de la arta sistemo kiel esprimrimedon
+konstruo de kondiĉoj en supersistemo, kiuj malaperigas la bezonon pri tiu esprimrimedo.
+
+En nia ekzemplo la artan sistemon prezentas rakonto pri la agadlokoj en teatraĵo. Komence oni uzas ekstersisteman rimedon — dungitan rakontanton. Poste uzatas rimedo el supersistemo — aktoro el la sama trupo. Poste funkcion de la rakontanto plenumas la herooj mem — la grado de idealeco grave kreskis. Kaj fine, la supersistemo konstruatas tiel, ke tute malaperas la bezono pri rakontanto — la necesan funkcion plenumas la dekoracioj.
+
+Certe, artaj sistemoj ne ĉiam evoluas laŭvice tra ĉiuj ĉi etapoj de idealiĝo, tamen la ĝenerala direkto validas. Ni rememoru jam menciitan ekzemplon pri evoluo de la simfonio. La etapoj de idealiĝo ĉi tie interplektiĝis. Mozart jam delonge uzis subsistemajn rimedojn, dum Saint-Saens ankoraŭ serĉis rimedojn “ekstere”. Tamen tiel aŭ alie la simfoniaj rimedoj idealiĝis, transiris al nivelo de subsistemoj, ties plua “malgrandiĝo” elĉerpiĝis, kaj ili transiris al supersistemoj (unuiĝo kun ĥoro, literaturo k.t.p.).
+
+Se ni esploros la kre-vojon de talentaj aŭtoroj, ni plej ofte konstatos la saman situacion. Tio, kio nomatas “krea evoluo”, fakte estas laŭgrada ŝanĝo de esprimrimedoj ekde hazardaj ĝis super- kaj subsistemaj, ĝis unuiĝo de kelkaj funkcioj en unu rimedo.
+
+Ekzemple, poeto Semjon Kirsanov komencis de “desegnaj” versoj, frapaj komparismoj, fonetikaj ludoj, sed poste liaj rimedoj evoluis profunden, transiris al “interno” de sistemoj, kaj fine, je la lasta etapo de lia kre-vojo, aperis lia fama plursignifeco.
+
+La saman evoluon ni vidas en la kreado de A. Rajkin, Ju. Nikulin, en poemoj de A. Voznesenskij. Kaj tute geniaj ni nomas tiujn, kiuj komencis de lastaj etapoj de idealiĝo, kiel A. S. Puŝkin.
+
+La leĝo, kiu konstatas la strebon de la artaj sistemoj al idealeco tre gravas speciale tial, ke ĝi montras la direkton — kie serĉi esprimrimedojn. La ordinare uzata metodo de provoj kaj eraroj ofte rezultigas, ke post sukcesa trovo povas sekvi malsukcesa. Ekzemple, V. Majakovskij, kiu komencis de super- kaj eĉ subsistemaj rimedoj, en la postaj periodoj uzis hazardajn rimedojn. Rezulte aperadis evidentaj malsukcesoj, poemoj, kiujn subtenis nur la fama nomo de Majakovskij.
+
+La idealan artan sistemon bone ilustras la eldiro de K. Brullov: “La arto komenciĝas tie, kie aperas la ‘iomete’”.
+
+V. Pri unueco kaj lukto, kaj ankaŭ pri “tipeco de l’ disdivido”
+Ni revenu nun al la unua leĝo. Ni konstatis, ke en la artaj sistemoj aperas kaj solviĝas la kontraŭaĵoj. Tamen tio ne sufiĉas. Por la leĝo estu praktike uzebla, necesas evidentigi la procedojn, kiuj ebligus solvi la kontraŭaĵojn — montri ties strukturon kaj principojn de forigo. Ni vidu tion surbaze de la jenaj taskoj.
+
+Tasko 1. La ĵazo, kiel ni jam scias, estas la voĉa improvizo surfone de improviza akompano. Proksimume ĉe la kvardekaj jaroj la ĵazo elĉerpis la eblojn de ekstensa evoluo. Oni jam trovis ĉiujn ĉefajn rimedojn. Restis nur profundigi ilin. Proksimume en la sama tempo oni inventis la elektrogitaron. La sonaj ebloj de la elektrogitaro estas tre riĉaj, kaj nature aperis deziro uzi ĝin en la ĵazo. Sed la tiama tekniko ludi elektrogitaron ne permesis la liberan improvizon, kiun bezonis la ĵazo. Kion fari?
+Tasko 2. En la tragedio “Reĝo Lear” la protagoniston influas du herooj — lia filino Cordelia kaj la bufono. Ili savas Lear’on de frenezo, instigas lin ĝuste kaj plenece pritaksi la eventojn. Sed la metodoj de ilia influo estas tute kontraŭaj. Cordelia milde admonas, la bufono — akre rikanas. Evidentas, ke tiuj herooj kompletigas unu la alian, sed kunekzisti sur la scenejo ili ne povas — la konflikto inter ili neeviteblas. Tamen tiu konflikto troŝarĝus la tragedion, deflankigus la atenton for de la ĉefaj eventoj. Kion fari?
+Tasko 3. Michelangelo estis unu el la gvidantoj de la Florenca ribelo, kiun krude sufokis la duko Medici — stulta kaj hida aristokrato. Al Michelangelo minacis aŭtodafeo. La papo proponis al li savon, sed kompense Michelangelo devis konstrui kapelon de Medici kun statuoj de la duka familio interne. Michelangelo tre deziris primoki la dukon. Li konsentis la proponon de la papo. Certe li ne intencis flati la dukon per siaj skulptaĵoj, sed ankaŭ fari karikaturon ne eblis — tiam la aŭtodafeo neeviteblas. Kion fari?
+Tasko 4. La specifa trajto de la televido kiel artoĝenro estas la kontinueco de la eventoj sur la ekrano. Ja la televida kamero ne kapablas portempe fiksi la bildon, sed tuj surekranigas ĝin, farante la impreson, ke la eventoj kaj ties percepto samtempas. Tiu eco estas tamen ne nur avantaĝo, sed samtempe manko. Ja realaj eventoj daŭras pli longe ol tempo destinita por TV-raporto. La sola solvo estas — filmi eventon per videokamero, munti la filmon kaj translacii ĝin sur la ekranon. Sed tiam malaperas la ĉefa trajto de la televido — la kontinueco. Kion fari?
+Tasko 5. Finna arkitekto Reim Pietile gajnis la konkurson pri la plej bona projekto por registara konstruaĵo en Kuvajto, kaj oni invitis lin gvidi la konstruadon. Li devis krei la konstruaĵon en araba stilo — kun rondoidaj meandraj formoj, kiuj kvazaŭ similus la araban literaturan skribon. Sed la arkitekto, kiel li mem diris, strebis “esprimi finnan animon en tiu lando”. Tamen la finna stilo prezentiĝas per rektaj linioj, akutaj anguloj. Kion fari?
+Tasko 6. Al pentristo Cranach oni mendis portreton de kardinalo Albrecht de Brandenburg — unu el la plej teruraj homoj de tiu tempo. Cranach devis pentri la kardinalon en lia kabineto kun Biblio kaj krucifikso. Montri la kardinalon tia, kia li estis — malica, kruela, senanima — certe ne eblis. Tamen montri lian esencon la pentristo deziris. Kion fari?
+
+Ses taskoj el ses artobranĉoj. La taskoj ne elpensitaj en kabineta kvieto. Ilin naskis la evoluo de la arto, la vivo, la lukto. Ili tre diversas. Kaj tamen ili havas ion komunan: ties artaj sistemoj konfliktas kontraŭ novaj postuloj. Tiu konflikto ne forigeblas per kutimaj rimedoj, ĝuste tial la taskoj malfacilas. La elementoj de la artaj sistemoj devas, sed ne povas plenumi la bezonatajn gravajn funkciojn — kaj rezulte maltaŭgas la tuta sistemo. Tian staton de la artaj sistemoj oni nomas administra kontraŭaĵo: necesas ion fari, sed kion?
+
+Sed fin-fine, kio obstaklas? Ekzistas du neakordeblaj postuloj. Se ni plibonigas la unuan, nepre plimalfortiĝas la dua. Certe, oni povas trovi kompromison — la plejmulto ĝuste tiel agas. Tamen rezulte aperas malfortaj, nekonvinkaj verkoj. La fortaj verkoj fortas ĝuste tial, ke ili perfekte kontentigas ambaŭ postulojn.
+
+Tian konflikton de du postuloj, kiam plibonigo de la unua sekvigas malplibonigo de la alia, kaj kutimaj rimedoj ne ebligas forigi tion, ni nomu la arta kontraŭaĵo (AK). Jen ankoraŭ unu ekzemplo:
+
+Tasko. En kartvela filmo “Mekvele” temas pri vilaĝo, kiun lasis la loĝantoj. Montri tion estas facile — netuŝita neĝo inter dometoj, mortaj fenestroj, abunda polvo sur mebloj kaj manĝilaro... Sed antaŭnelonge ja en la vilaĝo bolis la vivo — oni ĝojis kaj tristis, naskiĝis kaj mortis, laboris kaj festenis. Montri ankaŭ tion ne estas malfacile. Sed senviva vilaĝo kaj bolinta en ĝi vivo devas esti prezentataj al la spektanto samtempe dum kelkaj minutoj. Kion fari?
+
+Facilas montri aparte la bolantan vivon, poste malplenan vilaĝon, ĉio estas klara, sed la epizodo daŭros nepermeseble longe. Ni havas tempon nur por iu duono. Se ni montros la mortan vilaĝon, klaros ke la loĝintoj lasis ĝin, sed ne videblos ke tie estis vivo; se ni montros vivan vilaĝon, klaros, ke tie estis vivo, sed ne videblos, ke la vilaĝo estas lasita.
+
+Ĝuste tio estas AK — arta kontraŭaĵo. Provo plibonigi unu econ de la sistemo kaŭzas nepermeseblan malbonigon de alia eco.
+
+Por solvi AK ekzistas du vojoj. Unu — trovi kompromison. Iom plibonigi la econ-1, por ke ne tro malboniĝu la eco-2. Ekzemple, montri ne tre vivan kaj ne tre malvivan vilaĝon. Aŭ montri viva duonon de la vilaĝo. Aŭ montri tristajn loĝantojn, lasontajn la vilaĝon. Sed ankaŭ tio ne klarigas la situacion. Kompromiso ĉiam malgajnas en la ambaŭ ecoj; ĝi neniam solvas la kontraŭaĵon.
+
+La dua solvo — inventi iun manieron, per kiu oni povas, pliboniginte la econ-1, plibonigi (aŭ almenaŭ ne fuŝi) la econ-2. Tio estas efektive krea solvo. Jen ekzemple kion faris la aŭtoroj de la filmo. Ili montris forlasitan vilaĝon, malplenajn domojn, polvozan internaĵoj, sed en la fonogramo de la filmo samtempe sonas ĉetabla bruo, tostoj je gloro de la vilaĝo k.t.p. — unuvorte, bolanta vivo. Tio estas solvo trianivela laŭ nia divido. Do, tute krea solvo.
+
+Kiel trovi tiajn solvojn? Kiel fari tiajn inventojn?
+
+Se ni pli atente esploros la artajn sistemojn, ni komprenos: la artan kontraŭaĵon kaŭzas tio, ke unu sistem-elemento devas kontentigi du rekte kontraŭajn fizikajn postulojn, tiu elemento devas esti en du ne nur neakordeblaj, sed rekte kontraŭaj fizikaj statoj, bezonataj por solvo de la tasko. Tian kontraŭaĵon ni nomu fizika.
+
+En niaj taskoj tio manifestiĝas jene:
+
+la ĵazo devas esti improviza por konservi sian variecon, kaj ne devas esti improviza por uzi la elektrogitaron.
+Cordelia devas esti sur la scenejo por influi reĝo Lear, kaj ne devas esti sur la sceno por ne konflikti kontraŭ la bufono.
+la skulptaĵo devas esti karikatura por parodii la dukon Medici, kaj ne devas esti karikatura por ne malutili al la aŭtoro.
+la filmaĵo devas esti muntita por konservi la bezonatan tempodaŭron, kaj ne devas esti muntita por ne rompi la impreson de kontinueco en televida raporto.
+la konstruaĵo devas esti rondoidokontura por esti arabeca, kaj ne devas esti rondoidokontura por “esprimi la finnan animon”.
+la kardinalo sur la portreto devas esti malica por montri la karakteron de la kardinalo, kaj ne devas esti malica por ne malutili al la aŭtoro.
+
+La kontraŭaĵoj jam akriĝis ĝis la plej alta grado, ĝis la ekstremo. Tamen nun ili pli facile solveblas. Klaras, ke reale la koncerna objekto ne povas esti en kontraŭaj statoj. Do, por solvi la fizikajn kontraŭaĵojn oni devas disigi tiujn statojn. Esploro de altnivelaj solvoj montris, ke ekzistas nur 6 manieroj por tion efektivigi. Nur ses por la tuta arto.
+
+Por solvi fizikajn kontraŭaĵojn, necesas la kontraŭajn ecojn
+
+disigi en la spaco(unu parto de la objekto havas la econ, la dua — la malan econ): ĵazon oni dividas je du partoj. La kantado restas improviza, dum la akompano iĝas fiksa. Nun la elektrogitaro senprobleme enkadriĝas en la artan sistemon. Tiel naskiĝis la nova ĝenro — “the beat”.
+disigi en la tempo (la objekto havas jen econ, jen la malan econ): Cordelia kaj la bufono neniam aperas sur la scenejo samtempe. Ili agas alterne.
+disigi inter sistemo kaj antisistemo, aŭ transiri al antisistemo: Michelangelo skulptis la statuojn, kiuj havis la perfekte belajn vizaĝojn kaj la pozojn de pensuloj. Ĉiu, kiu konis la hidajn vizaĝojn kaj stultecon de Medici, tuj komprenis la aferon.
+disigi inter la sistemo kaj supersistemo: la filmo en TV-raporto estas muntita, sed akompanatas de kontinua komentado (foje ankaŭ de figuro de komentisto).
+disigi inter la sistemo kaj subsistemo: la konstruaĵo konsistas el rektaj elementoj, sed sume ili formas la rondoidajn konturojn.
+disigi kompare (t.e. la econ havas la objekto mem, sed la malan econ — kompare al iu alia objekto): sur la portreto la kardinalo havas sufiĉe bonan vizaĝon. Li rigardas la krucifikson. Sed la Kristo sur la krucifikso aspektas tiom kompatinda, timigita kaj turmentita, ke evidentas, kiom kruela homo lin alrigardas.
+
+Povas aperi la demando. La postuloj en la taskoj 3 kaj 6 ne rilatas la arton. Oni ne aĉetus la pentraĵon, brulmortigus la aŭtoron — tio ja fakte ne koncernas la arton. Tamen ni imagu, ke la kardinalo estus pentrita kruela. Nu, kaj kio? Ordinara banala portreto. Ankaŭ karikaturaj mienoj de la statuoj en klasika kapelo ne prezentus la arton. la eksteraj, “neartaj” kondiĉoj servis nur kiel ŝirmilo. En la profundo tamen estis la postulo de nebanaleco, kaj tio jam rekte koncernas la arton.
+
+Kutima estas la maniero “pruvi” neeblon science ellabori iujn kriteriojn por la arto: preni kriterion, apliki ĝin al diversaj artaĵoj kaj triumfe deklari — jen, ne taŭgas! Ne klarigeblas arto per racio! Tiaj “pruvoj” havas garantiitan sukceson, ĉar arto, kiel ĉiu komplika sistemo, povas esti priskribita per komplekso da kriterioj. Se oni uzas nur la kriterion, pri kiu ni parolis komence de la artikolo — la nivelon de noveco — oni rapide fiaskos, ĉar noveco por si mem tute ne bezonatas. Alta noveco estas arta kriterio nur tiam, kiam ĝi necesas por solvi artan kontraŭaĵon. Ekzistas multaj ekzemploj de noveco por noveco — en la historio de arto ili restis nur kiel strangaĵoj. Do, ni jam havas dukriterian komplekson: por ke la verko estu artaĵo, ĝi devas solvi kontraŭaĵoj kaj fari tion altnivele. Sed tio ne enhavas la tuton! Necesas aldoni ankoraŭ kriteriojn (pri ili ni rakontos en sekvaj fojoj). Tiuj, kiuj esperis trovi simplan mezurilon, estos elrevigitaj: arto estas komplika fenomeno, ankaŭ takso kaj laboro kun ĝi estas komplikaj. Oni ne esperu kompreni ĝin per unu aŭ du kriterioj — ĉu raciaj, ĉu babile-“animaj”. Ambaŭ variantoj estas ne pli ol ĉarlatanaĵo.
+
+Kaj ankoraŭ unu rimarko. Oni ofte demandas: kiu kontraŭaĵo estas en konkreta verko? Ne estas ja! Sekve malpravas la teorio!
+
+Jes, certe, en la verkoj estas neniuj kontraŭaĵoj. Tie estas (aŭ ne estas, se la verko banalas) nur solvoj de kontraŭaĵoj. La kontraŭaĵoj mem aperas inter la verkoj, laŭ evoluo de artaj sistemoj. Jen ekzemplo:
+
+Tasko 7. En komedio de Shakespeare “Somernokta sonĝo” agas diversaj feoj, amazoninoj, diabloj — do, diversa diablaro. La eventoj pasas en antikvaj tempoj. En teatra praktiko ekzistas ellaboritaj rimedoj por montri tiun tempon — pufaj, riĉaj vestaĵoj. Angla reĝisoro Peter Hall rimarkis, ke la diablaro en la komedio pli konformas al kamparanaj imagoj, sed ne aristokrataj. Por montri tion, do por evoluigi la sistemon, aldoninte al ĝi novan funkcion, oni devas uzi kamparanajn vestaĵojn. Bedaŭrinde, tiu vestaĵo en ĉiuj tempoj estas sufiĉe simila, do, perdiĝas la indiko pri la tempo de la eventoj. Kion fari?
+
+Jen kiam aperas kontraŭaĵoj! Kiam la sistemo trafas alian supersistemon, ĝi devas ŝanĝiĝi por plenumi novajn funkciojn. Sed sistemoj estas sufiĉe konservativaj; ŝanĝi ilin estas malfacile. Tio kaŭzas kontraŭaĵojn. Se solvi la kontraŭaĵojn kaj realigi tiun solvon, aperas verko, kiu ne enhavas kontraŭaĵojn ĝis nova transiro al aliaj kondiĉoj.
+
+Tiun ĉi taskon provu solvi memstare. Vi havas ĉiujn sciojn, necesajn por tio. Evidentigu artan kontraŭaĵon, transiru al fizika kontraŭaĵo kaj solvu ĝin laŭ iu el la tipaj manieroj.
+
+VI. Trigonometrio de arto
+Ĝis nun ni tiom rezonadis pri diversaj ecoj de artaj sistemoj kaj ilia evoluo, ke aperas natura demando: kio do estas tiu arta sistemo? Kiel ĉiam, por ion respondi, ni traktu kelkajn samtipajn ekzemplojn. Jen tri literaturaj komparoj:
+
+“La okuloj de Katjuŝa Maslova estis nigraj, kiel malseka ribo” (L. Tolstoj “Reviviĝo”).
+“Kiel purpuraj signallampoj, niaj vizaĝoj flugis en mallumon” (A. Voznesenskij “Ĉaso de leporo”).
+“Ho, lumoportaj tigoj de maroj, lumturoj!” (A. Blok “Ŝipoj venas”).
+
+Imagu, ke tiuj komparoj ne estas. La okuloj de Katjuŝa Maslova estis nigraj. Niaj purpuraj vizaĝoj flugis en mallumon. Ho, lumturoj! Tiuj vortoj mem ne devigas nin senti ilian enhavon. Por aperigi tiun senton la aŭtoroj al la objektoj (okuloj, vizaĝoj, lumturoj) aldonas certajn ilojn (ribo, signallampo, tigoj). Kaj nur tiam ni ricevas artan rezulton. La arta sistemo ekfunkcias.
+
+Aperas supozo: minimume modelo de arta sistemo devas konsisti el tri elementoj: objekto, kiun necesas emocie prezenti al la konsumanto, ilo, kiu tion faros, kaj rezulto, t.e. figuro de objekto, kiu aperas en la kapo de konsumanto. Se en la sistemo mankas iu el tiuj elementoj, ĝi ne povas funkcii, kaj ĝin necesas finkonstrui.
+
+Ni kontrolu la supozon per ekzemploj el aliaj branĉoj de arto.
+
+“Dum la tuta opero la agadloko vide restas la sama oblikva sceneja surfaco, kvazaŭ paperfolio, sur kiun oni skribas sortojn de la personaĵoj. Solas frapa metaforo: kolonoj — kandeloj, en kies lumo okazas la teatraĵo. Sed ne nur tia estas ilia destino. Kun pereo de iu personaĵo velkas, estingiĝas, degelas, forirante en nenion ankaŭ ili”.
+En filmo “Gimnasto” estis kelkaj epizodoj de trejnado de S. Diomidov. “... ne ĉion la gimnasto sukcesis tuj. Laŭ postulo de la trejnisto li kelkfoje ripetadis la ekzercon. Kaj jen en la fonogramo aperis frapado de orkestrestra bastoneto sur pupitro: tiel orkestrestro postulas ripeti nesukcesan fragmenton”.
+Por montri feinon en baleto “Nuksrompulo” P. Ĉajkovskij enigas en orkestron novan muzikilon — ĉeleston.
+V. Perov en pentraĵo “triopo” vidigas movadon de sledo per kuranta hundeto.
+
+Ŝajnas, ke ĉio estas simpla: por ke objekto aperigu en la konsumanto la necesan figuron, oni devas trovi ilon, kiu helpas tion fari. Ni kontrolu la konkludon en konkreta tasko.
+
+Tasko 1. Antikvaj grekaj teatraĵoj okazis tage sur malfermita scenejo. Dekoracioj forestis. Se la eventoj en teatraĵo okazas tage, ĉio bonordas. Sed kiel montri, ke la eventoj okazas nokte?
+
+Do, ni havas parton da eventoj, kiu okazas nokte. Estu tio nia objekto. Necesas ricevi la figuron de nokto. Sed la teatraĵo okazas tage. La modelo ne estas finkonstruita. Por finkonstrui ĝin, en la “noktan” parton necesas enigi iun “noktan” ilon, ion tian, kio nepre estas en ĉiu nokta agado. Post tia rezonado la tasko ne plu estas komplika. Antikvaj grekaj aktoroj en similaj okazoj uzis torĉojn.
+
+Laŭ terminaro, kutima por teknikaj sistemoj, la objekton kaj la ilon oni nomas “substancoj”, kaj la rezultan figuron — “kampo”. Tial la minimuma modelo nomiĝas sukampo.
+
+Finkonstruo de sukampo helpas solvi kontraŭaĵon, kiu estas en konkreta tasko. En nia okazo: nokto devas esti, ĉar tion postulas la teatraĵo, kaj ne devas esti, ĉar la teatraĵo okazas tage. Torĉoj solvas la kontraŭaĵon: nokto ne estas, kaj ĝi kvazaŭ estas. En tiu “kvazaŭ” estas la forto de sukampoj.
+
+Natura estas demando: kie oni trovu la ilon? Kiel serĉi ĝin? Kiel taksi? Se en antikva greka teatro anstataŭ torĉoj oni kovrus la scenejon kaj spektantojn per grandega kloŝo, ankaŭ tio estus “finkonstruo de sukampo”. Kial tamen torĉoj pli bonas?
+
+Ŝajnas, ke la demando jam ne estas komplika. Certe, temas pri idealeco. Ideala sukampo devas esti konstruita “el nenio”. Kaj el tiu vidpunkto torĉo estas plia “nenio” ol kloŝo super spektantoj kaj scenejo.
+
+Ĉiuj ĉi ekzemploj estas konscie elektitaj tiel, ke ili enhavas fremdan instrumenton. Malseka ribo neniel rilatas al Katjuŝa Maslova. Signallampoj neniel estas ligitaj al la ĉasistoj. Ĉelesto neniam eniris la orkestron. Tiuj elementoj superfluas en la sistemo, ni indulgas la “superfluecon” nur tial ke ili nemalbone plenumas sian funkcion. Sed estas multe pli bone elekti por instrumento ion pli proksiman al la sistemo. Komparu ni du ekzemplojn:
+
+Moskva teatro de miniaturoj surscenigis spektaklon laŭ teatraĵo de nuntempa sudafrika dramaturgo Atol Fugard “Sango-katenoj” (reĝisoro — N. Konstantinov). En la teatraĵo agas du personoj, du fratoj. La unua estas malhelhaŭta, la dua havas iom pli helan haŭton, li povas ŝajnigi sin blankhaŭtulo. Rolante blankhaŭtulon, la dua frato komencas krii al la unua, kaj tiu kutime sklavumas antaŭ “la sinjoro”. Por akcenti la konflikton de la du moraloj, la reĝisoro aranĝis la spektaklon en formo de boksejo kaj enigis novan personaĵon — referion (boksan juĝanton).
+En spektaklo de leningrada Malgranda teatro laŭ romanoj de F. Abramov “Fratoj kaj fratinoj” kaj “La Domo” reĝisoro L. Dodin strebis montri la “dramecon kaj ardon de la epoko”. Tiucele estis enkondukita nova personaĵo, kiun ne havis Abramov — prokuristo de distrikta plenuma komitato Ganiĉev.
+
+Referio estas tute fremda objekto. Kaj malgraŭ tio, ke li plenumas la funkcion, en la spektaklo senteblas lia fremdeco. Prokuristo Ganiĉev estas tute natura figuro. Li estas elemento de nia ĉirkaŭo, lia apero neniel eliras el kadroj de la realo. Oni ne povas diri la samon pri referio en hejmo de du sudafrikaj malriĉuloj.
+
+Ankoraŭ unu duobla ekzemplo:
+
+Pentristoj kaj poetoj, verkante pri carino Jekaterina II, kutime komparis ŝin al diino Minerva. Minerva estas romia diino de ŝtata saĝo, protektanto de artoj kaj metioj. Ŝi kun Jupitero kaj Junona estas la reganta triopo de la dioj. Por akcenti saĝon, sagacon, duondian karakteron de la carino, oni prezentis ŝin en aspekto de Minerva kun la vizaĝo de Jekaterina.
+La unua portreto, kiu vere plaĉis al Jekaterina, estis farita de servuta pentristo I. Argunov. La pentristo prezentis la carinon kiel rusan belulinon, moliginte ŝiajn tipe germanajn trajtojn.
+
+Jen alia artoĝenro — pentroarto. Sed la principo de evoluo estas la sama. Minerva estas tute fremda instrumento por montri rusan carinon. Sed rusa belulino estas instrumento el la supersistemo. Unuafoje en portreto estis konsiderita specifeco de la lando, kiun regis Jekaterina. Estas nenio mirinda, ke la portreto forte impresis ŝin.
+
+Elementojn de supersistemo kaj cirkonstancoj oni ofte uzas por finkonstruo de artaj sukampoj.
+
+Por montri, ke Hamlet estas danĝera por la ŝtato de Claudius, reĝisoro G. Kozincev enigas en sian filmon tute naturan por tiaj okazoj supersisteman figuron — spionon.
+Por akcenti larĝecon kaj vastskalecon de romia baroko, tiamaj arkitektoj komencis organizi naturon ĉirkaŭ siaj konstruaĵoj — parkojn, terasojn kun grotoj kaj fontanoj, t.e. eksteran medion.
+Ĉiu konsiderinda personaĵo en opero de A. Borodin “Princo Igor” estas tipa. Por akcenti tion, la komponisto apogas ĉiun personaĵon per koncerna ĥoro: Igoron — per ĥoro de popolo, Vladimiron Galickij — per drinkuloj, Konĉakon — per sovaĝa hordo.
+
+Sed estas multe pli bone, kaj arta sistemo pli idealas, se kiel ilo oni uzas parton de la objekto. Ni rememoru la taskon de Peter Hall. La ilo por montri kamparanecon estas suba parto de vestaĵo. La tuta vesto estas la objekto, tial la ilo estas multe ideala, praktike aperigita “el nenio”.
+
+“Mi volas fari portreton de amiko, — skribis van Gogh al sia frato, — pentriston, revulon, kiu laboras same, kiel najtingalo kantas... Komence mi pentros lin tiom bone, kiom mi sukcesos. Tamen la pentraĵo ankoraŭ ne pretos. Por pretigi ĝin mi troigos la blondecon de liaj haroj. Mi faros ilin oranĝtonaj, ĥrom-koloraj, helcitronaj. Post la kapo, anstataŭ muro de ordinara ĉambro, mi pentros senlimecon... Tiel blonda hela kapo impresos kiel stelo en blua lazuro.”
+
+Jen la objekto — la kapo de pentristo. Kiel krei figuron de stelo? Certe, eniginte ilon. Kaj van Gogh konstruas ĝin el la sama kapo — tio estas blondaj haroj.
+
+Nun ni formulu la unuan regulon de la sukampa analizo:
+
+Se estas nesukampa (1 elemento) aŭ neplena sukampa (2 elementoj) sistemo, ĝin nepre necesas finkonstrui ĝis plena sukampo.
+
+Ni provu uzi niajn sciojn praktike. Jen ankoraŭ unu krea tasko:
+
+Tasko 2. Reĝisoro Georgos Sevastikoglu (Nacia Grekia Teatro) surscenigis teatraĵon de Eŭripido “Orest”. Unu el la centraj personaĵoj estas Helena la Belega. Ŝi estas virino, neesprimeble bela (ja ne vane pro ŝi eksplodis la milito), sed havas ne tre bonan moron. Sevastikoglu volis montri ŝian “brilan ĉiesecon”. Kiel fari tion?
+
+El sukampaj pozicioj ĉio klaras. La objekto — Helena la Belega. Ni ne povas ricevi el ĝi la figuron (kampon) de la “brila ĉieseco”. Mankas la ilo. La ilo devas karakterizi tiun “ĉiesecon”, devas esti vulgara. La plej proksima al la ideala estus ilo, prenita el Helena mem. Tio ne povas esti elemento de ŝia aspekto — ŝi ja estas Belega. Do, restas sole... Kaj en la scenaĵo Helena havas belan staturon, ĉarman vizaĝon kaj iron, sed raŭkan, vulgaran voĉon.
+
+Mem tia metodo finkonstrui sukampojn estas preskaŭ ideala. Sed ĉu ni povas atingi plenan idealiĝon? Rememoru, ke ideala sistemo estas tiu, kiu forestas, sed kies funkcio restas plenumata. Kaj, ĉar la funkcio per si mem ekzisti ne povas, ĝin devas plenumi la supersistemo. Alivorte, la supersistemo devas esti ŝanĝita tiumaniere, ke ĝi povu plenumi la funkcion de la sistemo, kaj la sistemo mem povas jam malaperi. Ekzemple:
+
+Poemaro de T. Ŝevĉenko “En prizono” (1847 j.) konsistas el vico de diversaj poemoj, plejmulto de kiuj rilatas nek al Ŝevĉenko mem, nek al malliberejo. Figuro de malliberigita poeto aperas el aro de la poemoj.
+Famaj klaŭnoj Ju. Nikulin kaj M. Ŝujdin komencis labori kun diversaj maskoj, nazoj, falsaj ventroj kaj buntaj klaŭnaj vestaĵoj. Poiome ili venis al tia organizo de siaj reprizoj, ke ĉiuj ĉi akcesoraĵoj iĝis nebezonataj. La klaŭnoj aperis en ordinara “homa” aspekto.
+
+Ĉi-konekse estas atentinda tiel nomata “regulo de MĤAT” (Moskva Arta Akademia Teatro): “Reĝon oni ne povas roli, reĝon rolas la ĉirkaŭantoj”.
+
+Ju pli proksimas la “fonto” de ilo al la objekto, des pli ideala estas la arta sistemo. Tial por solvado de artaj taskoj ekstreme gravas nocio resursoj. Komencante konstruadon de nova sistemo, oni devas atente listigi kaj taksi la eblajn fontojn de iloj.
+
+Tasko 3. G. Kozincev rakontis pri sia lasta renkontiĝo kun aktoro S. Miĥoels. Tiu lasta laboris pri rolo de Richard Gloster el verko de Shakespeare “Richard la III”. Gloster estis terura homo. Denaske ĝiba kaj malbela, li estis furioza kaj senindulga, havis neniujn limojn en sia strebo al potenco. Richard malamegis ĉiujn. Sed Miĥoels ne intencis roli tiom unuflankan “nigran” homon. Ne ekzistas ja homoj, kiuj ne volas komuniki siajn sukcesojn almenaŭ al iu, eĉ malhumanajn sukcesojn. Sed Richard ne havas amikon, al kiu li povus komuniki sukcesojn, kaj ne povas havi pro la karaktero. Kion fari?
+
+Solvu ni la taskon laŭregule. La arta kontraŭaĵo: se roli la homon sen amikoj, tio konformos al lia karaktero, sed la personaĵo iĝos banala. Se iel aldoni amikon, la personaĵo “viviĝos”, sed tio ne agordas kun la karaktero de Richard. Fizika kontraŭaĵo: la amiko devas esti por “vivigi” la personaĵon, kaj ne devas esti por ne rompi la karakteron de Richard.
+
+Estas klare, ke rektavoje la tasko ne solviĝas. Necesas finkonstrui la sukampon. La objekton ni jam havas — tio estas Richard mem. Sed li ne kreas la necesan kampon (figuron de viva homo). Necesas enigi ilon (“amikon”), interagante kun kiu, Richard “viviĝos”. Ni listigu la plej proksimajn resursojn:
+
+Supersistemo: regatoj, malamikoj, parencoj...
+Ekstera medio: palaco, servistoj, ĉevalo, kiraso, arbaro, urbo, urbanoj...
+Subsistemoj: manoj, piedoj, vizaĝo, ĝibo...
+
+La homojn oni povas tuj forigi el la konsidero — ilin Richard kontaktos neniokaze. Ĉevalo, kiraso, arbaro... Ne, li ne estas tiom sentimentala. Manoj, piedoj — tio estas kutimaĵoj, li tion ne atentus. Sed la ĝibo... Eterna akompananto de Richard, lia malfeliĉo, lia ŝarĝo...
+
+Jen kion skribis Kozincev: “‘Richard, — diris Miĥoels, — havas ĉiaman kunparolanton, amikon, kiun li ŝatas konsulti, al kiu li ŝatas komuniki la pensojn. La celo de la kriplulo estas devigi homojn adori lian amikon-ĝibon, diigi ĝin. Post ĉiu sukceso, post ĉiu nova krimo Richard turnas la kapon kaj palpebrumas per unu okulo al la formaĵo sur la dorso...’ Miĥoels ne nur rakontis pri ĉio ĉi, sed ekstarinte de la seĝo ludis novajn epizodojn. Estis forgesitaj la ĉifita jako, hirtaj haroj ĉirkaŭ la kalvaĵo, sengrima vizaĝo, ŝajne tute ne taŭgaj por la rolo. Malalta homo fariĝis alta, ia diabla arogo ekflamis en la rigardo — timiga, tragedia mito aperis en negranda moskva ĉambro...”
+
+Jen ankoraŭ tasko el praktiko de Kozincev.
+
+Tasko 4. Citaĵo el jam plurfoje citita libro de Kozincev: “Peter Bruck ŝajnas al mi la plej interesa reĝisoro en Eŭropo, li purigas la tragedion de Viktori-tempaj banalaĵoj. Por fari la ŝablonojn malkutimaj, li ofte akre troigas la kontraŭan direkton. Mary Joure en lia ‘Hamlet’ rolis frenezan Ophelia-n — teruran, malbelan mizerulinon kun bulo da grizaj haroj; la aktorino ne kantis, sed hurlis kantojn. Dubinde, ke necesas memorigi al Bruck, ke laŭ Shakespeare la filino de Polonius ‘eĉ la frenezon mem ĉarmigas’. La angla reĝisoro, certe, legis tiujn vortojn. Sed jam tiomfoje aktorinoj aperis sur scenejo en aspekto de Graetchen kun floretoj en bele malvolvitaj haroj. Necesis foriri de sentimentaleco.”
+Rememoru ni la epizodon kun freneza Ophelia. Ŝi promenas, kolektante florojn, neklare kantante. Efektive, beleco ĉi tie ne taŭgas — antaŭ ni estas frenezulino. Tamen Bruck evidente troigis. Tiom abomena Ophelia ne devas esti. Kion fari?
+
+Nun la eraro klaras: ne estis finkonstruita la sukampo. De unu ekstremaĵo la reĝisoro transiris al la alia, tio neniam donas bonajn rezultojn. Ja estas klara kontraŭaĵo: Ophelia devas esti bela por konformi al la verko, kaj devas esti malbela, por prezenti frenezecon. Ni dividu la kontraŭajn ecojn, transirante al la supersistemo, aldonante ilon, kiu montros la figuron de frenezo. Ni ekzamenu resursojn.
+
+Supersistemo: Hamlet, Claudius, Gertrude, ceteraj personaĵoj...
+Ekstera medio: palaco, herboj, vestaĵoj, floroj...
+Subsistemoj: korpaj membroj, vizaĝo, har-aranĝo, kanteto...
+
+Oni povas uzi supersistemajn rimedojn. Sed necesus ŝanĝi la tekston — tio malproksimigas nin de idealeco. Kun vestaĵoj, har-aranĝo, kanto Bruck jam eksperimentis malsukcese. Evidente, subsistemaj rimedoj ne taŭgas. En la ekstera medio krom vestaĵo la plej proksima elemento estas floroj. Ĉu ili povas manifestigi freneziĝon de Ophelia? Kolektu ŝi velkintajn, malpurajn florojn kun sekiĝinta herbo, malpuraj branĉoj...
+
+En filmo “Hamlet” de Kozincev belega freneza Ophelia kolektas bukedon el malpuraj, malsekaj branĉetoj.
+
+Ni volas emfazi: idealiĝo — ĉu poŝtupa, ĉu tuja — estas fenomeno neevitebla. Eĉ la plej bonaj artaj sistemoj nepre idealiĝos. Kaj malaperos. Tio neniel signifas, ke malaperos ĉio, kio estis akceptita de socio malgraŭ neidealeco. Ne. Simple, novajn supersistemojn oni konstruos plu sen tiu sistemo (konservante ĝian funkcion). Ekzemple, pentristoj ekde Goya rifuzis klaran konturon. Ĝian funkcion plenumas limo inter du farboj. Sed tio neniel signifas, ke ni ne plu admiros verkojn de Leonardo da Vinci, kiu videble kaj klare konturis la objektojn sur siaj pentraĵoj. Ni admiros, sed ne plu konturos.
+
+Konsiderante la neeviteblon de idealiĝo, provu solvi jenan taskon pri la sama “Hamlet”:
+
+Tasko 5 (“hejma tasko”). Kriza momento de la tragedio estas renkontiĝo de Hamlet kaj Fantomo de lia patro. Kiel montri la fantomon? Kutime oni volvas aktoron en blankan tukon, devigas lin paroli per nehoma voĉo. Kozincev en la filmo grave idealigis Fantomon. Sur la ekrano videblas nur la vizaĝo, okuloj; ĉio cetera kunfandiĝas kun la ekstera medio. Ekzemple, la mantelo ne videblas en arba ombro.
+Proponu la sekvan ŝtupon en evoluo de Fantomo.
+
+VII. Gimnastiko por artaj sistemoj
+Naskiĝis arta sistemo. Al objekto, nocio, sento, kiun ni volas prezenti al la konsumanto, ni aldonas duan objekton — komparon kaj ricevas rezulton. Konsiderante la leĝon pri idealiĝo, ni elektis la komparon el la resursoj — super- aŭ sub-sistemaj elementoj. Sed kiel arta sistemo evoluas plu? Kiel fari ĝin pli forta, pli efika?
+
+Al novnaskita infano oni aplikas specialan gimnastikon, kiu postulas minimuman penon, sed provizas bonajn rezultojn. Histori-artaj esploroj permesis trovi ion similan ankaŭ por artaj sistemoj. Du ekzercoj, du potencaj fortigiloj...
+
+Mobilis in mobile
+Nova sistemo naskiĝas sufiĉe rigida, solida. Tial la unua ekzerco, nepra etapo, tra kiu pasas en sia evoluo ĉiu arta sistemo, estas dinamikiĝo. Kiam vi vidas nedinamikan sistemon, vi povas kuraĝe profeti — ĝi iĝos elasta, dinamika. Ni konsideru kelkajn ekzemplojn de dinamikiĝintaj sistemoj.
+
+Gazeto “Literatura un Maksla” (Latvio) 1985.06.07 rakontis pri la ekspozicio de pentristo Pauls Sprindzans (metalaj ornamaĵoj): “Lakonan laŭ la formo, modifeblan ornamaĵon ‘Transformoj’ oni povas rekonstrui proksimume en 30 variantoj”. Ĉi tie dinamikiĝo okazis pro ŝanĝo de ligoj inter subsistemoj de la verko. Tio permesas en la sama verko krei plurajn “subverkojn”, kiuj kune rezultigas la figuron de transformoj.
+
+Dinamikiĝo evidentigis ebla eĉ en tiom nedinamika arto, kiel beletro.
+
+Novelo de fratoj Strugackij “Heliko sur deklivo” konsistas el du partoj: “Kandid” kaj “Administrejo”. La partoj estas interligitaj nur per la agadloko kaj mencio de komunaj por ambaŭ partoj personaĵoj. La aŭtoroj avertas, ke oni povas legi tiujn partojn en ajna ordo — pro tio iom ŝanĝiĝas la ĝenerala impreso.
+
+Dinamikiĝo aperas ne nur sur la nivelo de verko, sed sur ajna, sufiĉe alta nivelo en la hierarkio de artaj sistemoj. Jen ekzemplo kiel dinamikiĝas sistemo “dialogo”:
+
+Stefan Pale el londona “Sunday times magazin” en artikolo “Kvardek du demandoj al Mario Vargas Llosa” skribas: “... en romano ‘La vera vivo de Aleĥandro Majta’ la leganto trovos dialogon de herooj, en kiu kunas paroloj, okazintaj kun 25-jara intervalo. Kiel rimarkas kritikistoj, la eventoj, kiuj en tradicia romano prezentiĝas por la leganto sinsekve, ĉe Llosa estas splititaj tiel, ke la pasinto, la nuno kaj la estonto kunekzistas kvazaŭ samtempe kaj reciproke interpenetras”. 
+
+La dialogo iĝis elasta, ĝiaj partoj ŝanĝas la lokojn, miksiĝas.
+
+Jen kio okazas en teatro. Lastatempe spektaklo metas antaŭ sia subsistemo — scenografio — taskon: helpi prezenti la emocian staton de la herooj.
+
+“La komencan fazon de efika scenografio en kreado de I. Blumbergs oni povas vidi en dekoracioj por scenaĵo de A. Volodin ‘Kvin vesperoj’ (reĝisoro Kimele, drama teatro en Valmiera, 1971). La surscenigo estas racia kaj lakona... La scenejon sekcas muro. Ĉe la muro lokiĝas tablo, seĝo, fera lito, malnova telefono. En fundo de la scenejo videblas mallarĝa koridoro, finiĝanta per nigra pordo. Kiam la heroino travivas malfacilajn aŭ helajn momentojn de la vivo, la muro ŝanĝas sian pozicion, malrapide moviĝas profunden. Malfermiĝas la vasto de la scenejo. La spektanto preskaŭ fizike sentas la vaston, kaj kunsentante esperojn, atendojn de la heroino, kvazaŭ vidas, kiel malfermiĝas novaj horizontoj de ŝia vivo”. 
+
+Altranga dinamikiĝo estas atingita en alia verko de I. Blumbergs.
+
+En scenografio por la tragedio de Rasin “Fedra” (Latvia ŝtata Akademia drama teatro, 1975, reĝisoro T. Hercberg) la scenejon plenigas teksita ornamaĵo, kiu laŭ la scenaro ŝanĝas sian formon, kreante metaforajn figurojn. Komence blua velura ornamaĵo memorigas pri ŝipo el antikva Grekio. Post momento komenciĝas triumfa reveno de Tezeo; sub potencaj orgenaj sonoj la ornamaĵo transformiĝas al fasado de palaco. Ankoraŭ post minuto — al templo de Neptuno k.t.p.
+
+Dinamikiĝo — ni ripetas — estas nepra evoluetapo. Konfirmante tion, dum lastaj jardekoj dinamikiĝas novaj kaj novaj branĉoj, eĉ tiaj, kia estas monumenta skulpturo.
+
+“Neordinare brila laŭ la arta koncepto estas monumento ‘Gloro al laboro’, konstruita en Kutaisi en 1981 (arkitektoj V.Davitaja kaj S.Bostanaŝvili). La proponita de ili maniero estas ne simple nova. Ĝi rimarkindas pro tio, ke malfermas novan vojon por la urba monumento ĝenerale.
+L’ aŭtoroj ekdubis pri jarcente neŝancelebla principo de neŝanĝeblo, stabileco de urbaj monumentoj... Rezulte la arkitektoj kreis nur la ekspozician spacon... Ŝirmiloj, konstruitaj el sesmetraj paneloj kun rondaj truegoj, formis spacon, pli ĝuste aron da spacoj, en kiun skulptistoj R.Manĝgaladze, G.Kaladze, S.Kopava, G.Ramiŝvili, D.Ruhadze lokigis siajn verkojn, dediĉitajn al laboro. La skulptaĵoj post ĉiuj tri jaroj devas esti anstataŭataj per samtemaj verkoj de aliaj skulptistoj, kaj la elprenitajn skulptaĵojn oni lokigos en muzeon”.
+
+Ordo kaj malagordo
+Plua ekzerco el gimnastiko por artaj sistemoj baziĝas sur malagrabla fenomeno: oni konstruas novajn sistemojn el “apudmanaj elementoj”, kiuj eniris tute aliajn sistemojn kaj estas destinitaj por tute aliaj celoj. Ekzemple, kiam en kino aperis sono, gesta tekniko de la muta kino kuniĝis kun deklama tekniko de teatro. Ili tute ne kapablis kunlabori.
+
+Tial post naskiĝo de sistemo oni devas agordi parametrojn de ĝiaj elementoj, subsistemoj.
+
+Tasko 6. En komedio de B. Shaw “Pigmalion” lingvisto Higgins instruas florvendistinon Eliza paroli aristokratmaniere. Kia devas esti baleto laŭ tiu ĉi komedio? Ja en baleto ne licas paroli.
+
+Neagorditaj estas du elementoj: parolo (el teatraĵo) kaj danco (el baleto). Agordi ilin eblas dumaniere: paroligi baleton (tio fakte okazas, sed ne tiom rapide), aŭ “dancigi” parolantojn. La dua vojo ĉi-okaze aspektas pli taŭga. Ni kontrolu la solvon.
+
+“En televida filmo-baleto ‘Halatea’ laŭ teatraĵo de B. Shaw ‘Pigmalion’ reĝisoro A.Belinskij kaj ĥoreografo D. Brjancev ŝanĝis la suĝeton de la komedio, transforminte profesoron Higgins en majstron de ĥoreografio. Tiu frivolo helpis baletistinon Jekaterina Maksimova talente, sprite, ĉarme enkorpigi dance la karakteron de la heroino de B. Shaw”.
+
+Ankoraŭ kelkaj ekzemploj, kiuj post konatiĝo kun la regulo ŝajnas tiom evidentaj.
+
+“Fiakristo Iona Potapov estas tute blanka, kiel fantomo. Kurbiĝinte, kiom nur povas kurbiĝi viva korpo, li sidas sur benko kaj ne moviĝas. Eĉ se sur lin falus granda neĝglobo, li, ŝajne, ne trovus necesa forskui la neĝon... Ankaŭ lia ĉevaleto estas blanka kaj senmova. Per sia senmoveco, angulesko de la formoj kaj bastoneca rekto de la kruroj ĝi eĉ deproksime similas ĉipan spickukan ĉevaleton... La fiakristo ŝmacas per la lipoj, cigne etendas la kolon kaj pli pro kutimo, ol pro bezono svingas vipon. Ankaŭ la ĉevaleto etendas la kolon, kurbigas siajn bastonecajn krurojn kaj malcerte ekmoviĝas...” 
+Kiam temas pri reciproka amo, herooj en opero de A.Borodin “Princo Igor” — Igor kaj Jaroslavna — kantas la saman melodion en diversaj partoj de la opero.
+En siaj rememoroj “Prenu mian vivon...” Marlene Dietrich skribas: “En 1936 mia studio ‘pruntedonis’ min al kinosocieto ‘United Artists’ por kolora filmo ‘La ĝardeno de Alaĥo’. Charle Boier devis roli monakon-ermiton, kaj mi — strangan virinon sen racio kaj komprenemo. Ŝi havis strangan nomon Domini Enfilden, kaj verŝajne serĉis la animan trankvilon en dezerto. Reĝisoro David Zelcnik, same kiel mi, ne ŝatis tranĉajn densajn kolorojn. Li atente aŭskultis, kiam mi prezentis al li mian ideon pri kostumoj, nome: uzi nur tiujn kolorojn, kiuj harmonias kun dezertaj sabloj. La ideo — mendi nur sablokolorajn kostumojn — ricevis lian aprobon... Unuafoje en la historio de kolora kino estis uzataj nur paŝtelaj koloroj. Kinoprovoj estis luksaj.”
+En arkitekturo de la XIV-a jc belon de konstruaĵoj oni atingis per grandega kvanto da diversaj ornamaĵoj, detaloj. Brunellesko la unua bazis la belon de siaj konstruaĵoj sur proporcieco de la partoj.
+
+La lasta ekzemplo estas pleje okulfrapa. Nur-nura agordo — sed kiom kolosa estas la grado de idealiĝo. Aperis la eblo forigi amason da superfluaĵoj, kiuj devis krei la belon. La belo nun venas elinterne, el agorditaj subsistemoj, sed ne el eksteraj detaloj. “En simplo kaj modereco estas perfekto” — opiniis Brunellesko mem.
+
+Agordi necesas ne nur parametrojn de la subsistemoj, sed ankaŭ parametrojn de la sistemo kun tiuj de la supersistemo.
+
+En libro “Jurij Nikulin kaj Miĥail Ŝujdin” estas priskribita okazo, kiam en 1955 la klaŭnoj estis en Varsovio kun “Scenaĵeto sur ĉevalo”. La anoncanto venigis ĉevalon kaj proponis al dezirantoj iom rajdi. Eliris “falsaj spektantoj” — klaŭnoj Jurĉjo kaj Miĉjo, kaj komenciĝis ridiga klaŭnado. En Sovetio la scenaĵeto nepre sukcesis dum pluraj jaroj.
+“En la unua gastrola tago, — ekridante rakontas Ŝujdin, — la ‘scenaĵeto sur ĉevalo’ fiaskis. La aktoroj agis, kiel ĉiam konvinke, sen troa ludo, sed la publiko ne ridis. La klaŭnoj embarasiĝis. Ja neniu dubis, ke ĉio sukcesos... Evidentiĝis, ke la kaŭzo estas absurde simpla — perfidis la kostumoj. Kiam Nikulin kaj Ŝujdin eliris sur la maneĝon en rolo de spektantoj, laŭ ilia aspekto tuj iĝis klare, ke ili ne estas frenezaj varsovianoj, dezirantaj amuziĝi rajde, sed rusaj aktoroj, rolantaj lokanojn. La aktoroj ne konsideris, ke prezentante la scenaĵeton eksterlande, oni devas vesti sin laŭ la modo de la koncerna lando. Sekvatage oni korektis la eraron, kaj la aktoroj fariĝis nedistingeblaj de poloj. La aventurojn de mallertaj rajdantoj denove akompanis eksplodoj de ridego, dum dek minutoj skuantaj la kupolon de la cirka ĉielo.”
+
+Komentoj, verŝajne, superfluas. Sed malgraŭ la simpleco kaj evidenteco de tiu ĉi regulo, oni obstine konstruas novajn artajn sistemojn neagorditaj, kaj poste per “kreaj suferoj” serĉas la solvojn. Kaj tiun baraktadon oni fiere nomas la “krea libero”.
+
+Tamen, ĉu eblas plifortigi artan sistemon post plena interna kaj ekstera agordo? Evidentiĝis, ke jes. Por tio oni devas la necesan parametron ... malagordi. Ĝi tuj iĝos frape efika.
+
+M. Pliseckaja surscenigis baleton “Mevo” laŭ la dramo de A.Ceĥov. Necesis montri disecon de homaj vivoj. Kaj laŭ la scenejo ekmoviĝis homoj en preskaŭ ĉiutagaj kostumoj. Ĉiu havis propran dancon, tute ne similan al dancoj de aliaj.
+“Danlando estas prizono” — tiujn vortojn de Hamlet en teatro oni kutime diras sur fono, pensiganta pri prizono. G. Kozincev en filmo “Hamlet” montras alian fonon: hela parada halo, ĉarmaj damoj agrable konversacias; parko, fontano brilas sub sunradioj, infanoj ludas, knabineto rajdas poneon. La vortoj pri Danlando-prizono ekhavas speciale timigan sencon.
+
+Tasko 7. Groteskon en opero oni kutime atingas per tranĉaj, pikaj, “angulecaj” sonoj, intence kreataj de la komponisto. Tio agordas kun la humura teksto de arioj — aperas komika efiko. Kiel plifortigi la groteskecon? Plian “pikecon” uzi ne eblas — estos jam disonanco.
+
+La tasko jam ne prezentiĝas komplika. Se la agordo estas plena, do devas sekvi malagordo. Teksto en komika opero estas nepre komika. Do, restas seriozigi, malkomikigi la muzikon. Tion faris, ekzemple, T. Ĥrennikov en opero “La ora bovido”. Lasinte la tekston humura, li verkis la muzikon en klasika opera stilo. Siajn komikajn kanzonojn la ruzega protagonisto — Ostap Bender — kantas, kvazaŭ en itala tragedio.
+
+Je la nomo de leĝo
+Do, restis resumi. Ambaŭ ekzercoj el gimnastiko por artaj sistemoj ne estas hazardaj. Tra ili nepre pasas ĉiuj sistemoj. Tio estas leĝoj de ilia evoluo.
+
+Lego pri dinamikiĝo. Ĉiuj artaj sistemoj laŭ sia evoluo dinamikiĝas; ligoj inter la subsistemoj iĝas pli elastaj, el “substancaj” transformiĝas al “sencaj”. La subsistemoj mem fariĝas ŝanĝeblaj. La sistemo akiras eblon reagi al ŝanĝiĝantaj postuloj de la supersistemo.
+
+Leĝo pri agordo-malagordo. Elementoj de ĉiu novaperinta arta sistemo estas neagorditaj. Laŭ evoluo parametroj de la subsistemoj agordiĝas; agordiĝas ankaŭ parametroj de la sistemo kun tiuj de la supersistemo. Post tio sekvas la etapo de malagordo, kiam la bezonata parametro malagordiĝas kun la sistemo.
+
+Gravas konscii: leĝoj estas leĝoj. Ili nepras kaj ili taŭgas por ĉiu rango de artaj sistemoj. Por konvinkiĝi provu hejmtaske solvi jenan problemon pri tre altranga sistemo.
+
+Tasko 8. Mondfama litova komponisto kaj pentristo M.Ciurlionis tutan sian krean vivon dediĉis al nova sinteza branĉo — li volis kunigi muzikon kun pentroarto. Liaj muzikaj poemoj devas koincidi kun liaj pentraj verkoj. Ili eĉ havas komunajn titolojn: “Poemo de maro”, “Poemo de suno”, “Poemo de piramidoj” ktp. Tamen eĉ en la muzeo de Ciurlionis (en urbo Kaunas), kie pendas liaj pentraĵoj, kaj sonas samtempe lia muziko, sento de nova arto ne aperas. Kial? Kiel, laŭ vi, devas evolui la nova branĉo? Eble vi povas proponi ion konkretan?
+
+VIII. Ŝtupoj al idealo
+Ni iom resumu la antaŭajn artikolojn.
+
+Estis konstruita arta sistemo (pli ĝuste — ĝia modelo — sukampo). Ĝi komencis idealiĝi. Per apliko de resursoj (super- kaj subsistemaj). Poste — per dinamikiĝo kaj agordo-malagordo. Nature aperas demando: ĉu eblas ankoraŭ pli idealigi la sistemon?
+
+Idealiga komplikigo
+Idealigi sistemon oni povas ne nur malgrandigante ĝin (sen perdi ĝian funkcion), sed ankaŭ vastigante la funkciaron de la sistemo, sen ŝanĝi la sistemon mem. La sistemo devas akcepti ankoraŭ unu funkcion. En la sukampa lingvo tio signifas, ke unusola paro da elementoj (objekto-instrumento) devas doni du rezultojn. Tia sukampo nomiĝas duobla.
+
+Duobla sukampo estas tre ideala kaj tial tre efika sistemo. Ne estas miraklo, ke ĝi ofte uzatas en la arto.
+
+En poemo “Sonĝo” T. Ŝevĉenko montras bagnulojn — krimulojn kaj decembristojn (partoprenantoj de kontraŭcara ribelo en Rusio en decembro de 1825 j.). Necesis apartigi la decembristojn, sed rekte tion fari ne indis. Do, la objekto estas la bagnuloj. Parton da ili Ŝevĉenko priskribas jene: “enkatenitaj”, “stampitaj”, uzante por la instrumento resursojn — punilojn. Klaras, ke ĉi-okaze temas pri krimuloj. Kaj nun necesas montri la alian parton — la decembristojn. Certe, oni povas konstrui specialan sistemon por tiu funkcio. Sevĉenko atingas la duan rezulton per la sama sistemo. Legante pri bagnuloj la vortojn: “per katenoj ornamitaj”, “per stampo kronitaj”, oni komprenas ke temas jam pri decembristoj. La duan sistemon (kiun konstruus ĉi-okaze malpli atenta poeto) Sevĉenko idealigis ĝis plena malapero.
+Jam krestomatiiĝis la priskribo de du statoj de Andrej Bolkonskij (Lev Tolstoj, “Milito kaj mondo”) per komparo al kverko: tio estas duobla sukampo. Kiam oni veturigas vunditan Bolkonskij (stato de plena despero), li vidas, ke inter floranta printempa kreskaĵaro nur tiu kverko ne ekfloris. Sed kiam Bolkonskij resanigita veturas reen (stato de feliĉo), li vidas, ke la kverko bunte ekfloris. La objekto estas Bolkonskij, li instrumento — kverko.
+
+Atentu, ke por ricevi duoblan rezulton en ambaŭ okazoj la instrumento devas esti direktebla. Por katenoj direkteblas la maniero de portado, por kverko — la “biologia” stato (floras — ne floras).
+
+Kaj jen kinomuzika ekzemplo.
+
+En letero al Ŝostakoviĉ reĝisoro Kozincev petis verki muzikon por fragmento, kie oni instruas Ofelia-n danci (temas pri filmo “Hamlet”) — tio estas “malnaturigo” de la knabino. La ideo de Kozincev estis: ripeti la muzikon en fragmento pri freneziĝo de Ofelia.
+
+Oni diras, ke, se en la unua akto sur scenejo pendas fusilo, en la lasta akto ĝi devas pafi. Duobla sukampo pafigas la fusilon dufoje.
+
+Certe, ne ĉiam oni povas ricevi du rezultojn el la sama paro, ĉar ne ĉiam la instrumento estas bone direktebla. Sed ekzistas “ruzo” — kiel devigi la sistemon produkti la duan rezulton.
+
+Mense ni apartigu la instrumenton de la objekto. Aperas konata situacio: estas dezirinda rezulto (K₁), estas unu elemento (eksa instrumento — S₂). Klaras, ke oni devas aligi ankoraŭ instrumenton (S₃).
+
+Tiaj sukampoj nomiĝas ĉenaj.
+
+Spritan ĉenan sukampon, ekzemple, konstruis L. Leonov en romano “Rusa arbaro”
+
+“... ĝislime enpensiĝinta dikuleto deksepjara, en gimnazia uniformo el danda oficira drapo, similis al ĉokolada boteleto, pene ŝajniganta sin dinamita obuso...”
+
+La tasko estis montri la efektivan formon de la dikuleto (rezulto-1, K₁) kaj liajn penojn (rezulto-2, K₂). Por tio al la objekto — la dikuleto (S₁) — estis aplikita instrumento-1 (ĉokolada boteleto, S₂), kiu siavice estis disvolvita en la duan sukampon per aldono de instrumento-2 (obuso, S₃).
+
+Tasko. Surscenigante dramon de D. Solomon “Hundo Diogen”, regisoro F. Dejĉ volis en la finalo montri, ke la kontraŭanto de Diogen — Aristodem — estas grava, influa politikisto. Tion la reĝisoro atingas, sidigante Aristodemon sur tronon. Ĝuste tiel Aristodem aperas antaŭ la spektantoj. Sed samtempe li estas maljuna, malsana homo. Kiel montri tion?
+
+La situacio estas la sama: por ricevi la duan rezulton, oni devas uzi resurson — jam konstruitan sukampon. Objekto — Aristodem (S₁), instrumento-1 — la trono (S₂), rezulto — graveco de Aristodem (K₁). Nun necesas aldoni al la trono instrumenton-2 (S₃), kiu donus la rezulton-2 (K₂) — la figuron de malsanulo. F. Dejĉ aligas al la trono atributojn de malsanula seĝo — radetojn, klisterilon, pelveton.
+
+Kie oni prenu materialon por instrumento-2? La resurso estas konata — leĝo pri idealeco. Ekzistas diversa grado de uzo de resursoj. Oni povas preni fremdan elementon.
+
+“... inventeme kaj serioze estas konstruitaj epizodoj, kie “junigita” Faust (aktoro Kirill Kozakov) devas deklami versaĵojn, decajn al saĝa kaj sperta maljunulo. Sur la ekranoj en tiaj okazoj aperas Miĥail Kozakov (la reĝisoro de la televida spektaklo — I.M., Ju.M.) kaj en ĉeesto de Kirill kvazaŭ “forprenas” de “junigita” Faust versaĵojn, apartenantajn ne al juna entuziasmo, sed al sperto kaj saĝo”.
+
+Oni povas uzi ankaŭ tion, kio jam estas en la supersistemo aŭ en la ekstera medio.
+
+Por montri muzike ĉielarkon “The Rolling Stones” en la komponaĵo “She’s a rainbow” uzas dueton fortepiano-violono. Por ricevi novan rezulton — montri poioman estingiĝon de ĉielarko, ili uzis neritmajn sonojn de tamburoj.
+
+Oni povas uzi ankaŭ modifaĵojn de unu el subsistemoj de instrumento-1.
+
+Kinodokumentistoj el Latvio (A.Feldmanis, A.Redoviĉs) faris mallongan filmon pri Ventao (unu el la plej belaj riveroj de Latvio). Kutime tiaspecajn filmojn minacas du danĝeroj — troigo de pitoreskaj pejzaĝoj sen inda komento, aŭ “trosaligo” per seka komento (la fifama enua “voĉo post la kadro”). La aŭtoroj filmis belajn lokojn, elektis bonan komentan materialon. La komenton legas aktoro en “ventin”-dialekto de latva lingvo (pr. ventinj). Tiun dialekton uzas ĉeventaaj loĝantoj. Por “literatur-lingva” latvo ĝi estas bonhumore ridetiga. La komento iĝis viva, interesa, emocia.
+
+Ni komparu la ekzemplojn. En la unua okazo la objekto — Faust, instrumento-1 — la aktoro (certe, ne la aktoro mem, sed la aktoraj rimedoj, kiun li uzas), rezulto-1 — “junigita” Faust. Por ricevi rezulton-2 — maljunulon — estas uzita tute fremda por televida spektaklo rimedo — reĝisoro. Idealeco estas ekstreme malalta. Nesolvita restis la ĉefa kontraŭaĵo: Faust devas esti juna, ĉar tion postulas la spektaklo, kaj devas esti maljuna, ĉar tion atestas la teksto de la monologo. La farito ne nur ne estas “inventema kaj serioza”, sed entute apenaŭ apartenas al arto...
+
+Ĉi tie la aŭtoroj eraras, evidente, ne vidinte la spektaklon mem, kaj juĝante nur laŭ recenzo. Unue, Miĥail Kozakov estas patro de Kirill Kozakov kaj ilia aspekto tre similas. Due, Miĥail Kozakov aperas en komenco de la spektaklo kiel ankoraŭ maljuna Faust. Tial la rimedo ne estas fremda — ĝi estas prenita el la resursoj de la supersistemo. Sed tio nur pli pruvas la teorion — Ju. F.
+
+En la dua ekzemplo ĉio klaras. La objekto — ĉielarko, instrumento-1 — la dueto fortepiano-violono, rezulto-1 — muzika figuro de ĉielarko. Por ricevi rezulton-2 — figuron de estingiĝo, oni uzas instrumenton-2 — tamburojn, kiuj jam estas en la ensemblo, t.e. en la supersistemo.
+
+En la tria ekzemplo la objekto — Ventao, instrumento-1 — komento, kiu kaŭzas la rezulton-1 — figuron de Ventao, de ties ĉirkaŭaĵoj kaj historio. Por emociigi la figuron (rezulto-2) unu el subsistemoj de la komento (la lingvo) estas modifita en ventin-dialekton. Tiu modifaĵo rolas, kiel instrumento-2.
+
+Malpli ol minimumo
+Ni devas ankoraŭfoje rememorigi pri idealeco. Ideala sistemo devas foresti dum ĝia funkcio plenumiĝas. Kiam ni nur komencis konstruadi sukampojn, idealecon ni atingis per uzo de resursoj. Pli efikaj sukampoj idealiĝas per transformo de ilia strukturo — dinamikiĝo, agordo-malagordo. Ankoraŭ pli idealaj estas sukampoj, kiuj per resursaj rimedoj sukcesas doni du rezultojn — ĉenaj sukampoj. Duoblaj sukampoj sukcesas atingi tion eĉ sen aldonaĵoj. Do, ĉu eblas ankoraŭ pli idealigi artan sistemon? Tiel, ke estu unusola sukampo, sed pli efika? La demando ŝajnas stranga. Sed la arto estas miraklo (malgraŭ ĉiuj kulpigoj, ke la teorio forigas tiujn...). La arto prezentas al ni eblon ĝui sukampojn malpli grandajn (sekve, pli efikajn!) ol minimumaj. Fakte, temas pri ordinara kontraŭaĵo: sukampo devas enhavi ĉiujn elementojn, ĉar tio estas minimuma modelo de arta sistemo, kaj ne devas ilin enhavi, por esti ideala.
+
+Kiel kutime, ni komencu per ekzemplo.
+
+Tasko. Tricent junuloj, ankoraŭ mezlernejanoj, el kartvelia vilaĝo Muhrani ne revenis el milito. Tion oni ne povas forgesi. Kaj arkitekto V. Davitaja kun skulptistoj R. Burĝanidze kaj R. Kozlovskij decidis konstrui “La Templon de Memoro”, dediĉitan al tiuj knaboj. Temis eĉ ne pri heroeco (multaj mortoj estis ne heroaj, tute absurdaj), sed pri tio, ke ne revenis infanoj. Tion necesis montri per skulptaj rimedoj. Ne taŭgas, certe, figuroj kun mitraloj, plorantaj virinoj ktp. Kion fari?
+
+Evidente, la plej simpla varianto estus skulpti la knabojn mem. Ĉu ĉiujn tricent? Evidentas, kiom fora estas tio de idealeco. Ĉu simbolan grupon? Tio estas jam iom pli ideala, sed neesprimeble banala. Miloj da simbolaj grupoj jam staras, sidas, kuŝas, dediĉe al ajna okazo. Jen arta kontraŭaĵo: se skulpti grupon da lernantoj, klaros, pri kio temas, sed la skulptaĵo banalos. Ni provu konstrui malan, unuavide, folan kontraŭaĵon: se ne skulpti la lernantojn, banaleco forestos, sed ne klaros, pri kio temas. Malgraŭ la tuta absurdeco, necesas rimarki, ke la lasta formulo respegulas tre idealan sistemon. Ni provu do konstrui la fizikan kontraŭaĵon: la lernantoj devas esti por montri, pri kio temas, kaj ne devas esti, por ne banali.
+
+Tiujn kontraŭajn postulojn ni disigu en spaco jene: en la skulptaĵo lernantoj ne estu, sed estu ili en ... la kapo de la konsumanto. Sekve, anstataŭ lernantoj necesas meti iun instrumenton, ion, karakteran por granda grupo da mezlernejanoj. Lernobenkojn, tekojn, kajerojn...
+
+En “La Templo de Memoro” estas simbola malplena klasĉambro.
+
+Atentu la kontraŭaĵon. Ĝin rezultas ne iaj ecoj de la objekto, sed ĝia ekzisto mem. La objekto devas esti, kaj devas ne esti. Solvoj de tiaspecaj kontraŭaĵoj samas: la objekto forestas en la verko, sed estas en la kapo de la konsumanto.
+
+Tiaj sukampoj nomiĝas glacimontaj. En ili, samkiel en efektiva glacimonto la ĉefa parto kaŝiĝas “subakve”, sed ĝi estas tute reala. Simbole transiron al glacimonta sukampo oni montras jene:
+
+Glacimontaj sukampoj estas speciala, tre efika formo de sukampoj. Ankaŭ ili ne stagnas, sed evoluas, pasas tra preskaŭ samaj evolustadioj kiel ordinaraj sukampoj. Same oni povas konstrui instrumenton el subsistemoj de la objekto.
+
+Jen, ekzemple, epizodo el kinokomedio “Neptunfesto” (reĝisoro Ju. Mamin):
+
+“... iu norda vilaĝo raportis, ke en ĝi estas kvindek ‘rosmaroj’ — ŝatantoj de vintra naĝado, kaj jen la regiona estraro invitis svedajn gastojn rigardi, kiel dum januaraj frostoj la vilaĝo banos sin en glacia aperturo; ‘rosmaroj’, kompreneble, tute forestis, sed la unuan de januaro oni atendis froston ĝis -40°C, kaj aperis frenezaj projektoj: varmigi akvon en la rivero... Dumnokte konstrui centpersonan banejon! Epizodon, kiam en la unua tago de nova jaro la vilaĝo, vestita per mezepokaj kaskoj, ‘atendas la svedon’, morne dancante sur frostaj montetoj — laŭ konata muziko de S. Prokofjev el filmo ‘Aleksandr Nevskij’, oni ne povas spekti sen ridego.” (En “Aleksandr Nevskij” temas pri la epokfara por tiama Rusio venko de la rusa armeo, kiun gvidis princo Aleksandr Nevskij, super la sveda armeo. La filmo estis treege populara en la tuta Sovetio dum 30-aj jaroj kaj post la milito).
+
+Necesis rememorigi la spektantojn pri la filmo, krei certan analogion kun ĝi. Sed ne eblas ja ripeti la tutan filmon. Oni uzis ties subsistemon — muzikan fragmenton; la filmo mem “subakviĝis”.
+
+Instrumenton oni povas preni el supersistemo aŭ el ekstera medio, kvankam tio estas iom malpli ideala.
+
+Fotoartisto Ilmars Apkalns planis fotopentraĵon “Pormemore”. Sur ĝi devas esti videbla la centra aleo de tombejo, ambaŭflanke — ŝtonoj kun nomoj de militpereintoj. Fine de la aleo — la eterna fajro kaj obelisko. Sed tio estas la “materia” parto. Bezonatas ankoraŭ homoj, vivaj homoj, viktimoj de la milito, — aliokaze spektantoj ne havos objekton por kompari, por eksenti la prezon de la heroaĵoj.
+
+Oni povas foti militajn invalidojn, venintajn al la tombejo. Tio estas jam arta sistemo, sed tro rekta, banala. Sed ni jam scias, ke arto ne toleras rektaĵojn. Aperas kontraŭaĵo: invalidoj devas esti por “vivigi” la temon, kaj ne devas esti por ne banali. Apkalns trovas belan (ĉar tute laŭleĝan) solvon: mem invalidoj forestas, sed komence de la aleo kuŝas longaj ombroj de du invalidoj kun lambastonoj.
+
+Ombroj estas elementoj de la ekstera medio; ne estas mirinde, ke la sistemo iĝis sufiĉe efika.
+
+Certe, oni povas uzi ankaŭ fremdajn elementojn por konstrui glacimontajn sukampojn (tio estas tre neideala varianto, sed iam ja okazas, ke pli idealaj elementoj ne troveblas). Sed fari tion oni povas nur tiuokaze, se la “subakva” parto jam estas konata al la konsumanto. Tio estas grava konsidero, ni devas trakti ĝin speciale.
+
+Ni ne scias, kial, sed tre vastas opinio kontraŭstariganta sciojn kaj ian “artan senton”. Pluraj opinias, ke tiu sento estas denaska, aliaj supozas, ke tion eblas lerni (kiel?), sed ĉiuj ĥore asertas, ke scioj estas io fremda al la arto.
+
+“Kio estas inteligenteco?” — skribas, ekzemple, akademiano D. S. Liĥaĉov. — “Ĉu informiteco, scioj, erudicio? Ne, ne estas tiel! Forprenu de homo la memoron, forigu de li ĉiujn sciojn, kiujn li havas, sed se post tio li konservos la kapablon kompreni vastan rondon de artaj verkoj kaj fremdaj ideoj, se li konservos la kapablon de “intelekta solidareco”, konservos sian akceptemon por intelektula vivo, — ĝuste tio estas inteligenteco”.
+
+Fakte, ekzistas ankaŭ pli sobraj ideoj. Pri tia kontraŭstarigo dubis, ekzemple, Lessing: “Tute povas esti ke ĉiu poezia bildo postulas de la leganto anticipan konatecon kun la priskribata objekto”. “Povas esti” signifas, ke supozatas ankaŭ, ke oni ne povas kompreni objekton sen scii pri ĝi. Pri la unua varianto Lessing metas plurajn ekzemplojn. Jen unu el ili:
+
+“... kiam Juvenal komparas la plej nobelan nenifarulon kun Hermes-kolono, dubinde oni povas trovi la sencon de la komparo, ne vidinte tian kolonon, kaj ne sciante, ke tio estas kruda fosto, sur kiu lokiĝas kapo de la dio, aŭ ties korpo; sekve tio signas estaĵon sen manoj kaj piedoj, kio aperigas la bildon pri nenifarado.”
+
+Sed ekzemplon, konfirmantan la eblon ne koni la objekton (konservante komprenon de la arta sistemo), Lessing — kutime tiom preciza en sia argumentado — ne prezentas. Nun ni povas diri, kial. Ĉar scioj estas nepra, vive necesa elemento por kompreni ajnan artan sistemon. Liĥaĉov proponas forigon de la memoro, kiel mensan eksperimenton. Bedaŭrinde, tiajn eksperimentojn la naturo okazigas reale. Ekzistas tre grava malsano — amnezio, perdo de memoro. Ve! Malsanulo tute ne montras ian abstraktan inteligentecon. Ĉio estas multe pli simpla kaj tragika — homo transformiĝas al animalo.
+
+En du seminarioj (por inĝenieroj kaj por pentristoj; sume — 43 partoprenantoj) ni aranĝis alian eksperimenton. Jen priskribo de pentraĵo, fare de moderna mongola pentristo Mjatavyn Cembedorĵ: “Poŝtisto”:
+
+“Surfone de subĉielaj montoj kun senfundaj abismoj en blanka vesto, rajde sur cervo descendas el la altoj kuriero kun poŝto. Estas neniaj detaloj, neniaj nuancoj. Neniaj nuancoj. Nur majesta naturo akcentas blankan koloron de la poŝtista vesto” .
+
+Kion vi povas diri pri la pentraĵo? Kiajn pensojn, humoron rezultas la priskribo?
+
+Neniu el la 43 personoj (inter kiuj sendube estis inteligentaj homoj) respondis verdirekte. Ĉiuj diris pri pli-malpli gaja, hela, esperiga impreso. Ĉar ili ne sciis detalon: blanka koloro en Oriento signifas funebron. La poŝtisto portas informon pri morto. La humoro de la pentraĵo estas tragika. Jen la efektiva rolo de scioj.
+
+Laŭ tempopaso scioj ŝanĝiĝas. Kaj tio tuj influas la percepton de artaj sistemoj. Kozincev donas jenan ekzemplon:
+
+“William Wailder dum la dua mondmilito faris filmon “Belulino Memfis”, en la filmo estis “fluganta fortikaĵo”: vivo de aviistoj, ilia milita laboro, bombado, reveno sub kanonado en la bazejon.
+La kroniko estis farita kiel luda filmo: estas montritaj karakteroj de la pilotoj, iliaj interrilatoj, gustoj, moroj.
+La gustoj simplas. Sur rando de avio estas pentrita bildo: junulino en naĝkostumo prezentas la postaĵon.
+Reveninte post batalo (estas montrita mort-danĝero, kuraĝo de la aviistoj, multaj grave vunditaj), pilotoj frapetas la belulinon Memfis sur la postaĵon: tia estas la tradicio.
+La bildo mem, la konduko de la knaboj — en tiu okazo — estas neniel speciale logaj. Waider nenie montras la malamikon — la bombado estas filmita el avio (kvadratetoj de bombobjektoj, fulmoj de eksplodoj, grenadfuneloj). Sed la spektanto vidas la filmon “en difinita ondo”: malamo al faŝismo fariĝis jam reflekso. Usonaj aviistoj, ilia kuraĝo, eĉ iliaj gustoj — ŝercoj kun la bildo — ĉio ĉi ŝajnas simpatia, profunde homa.
+Nun ni imagu la saman filmon — precize ĉiujn kadrojn — okazi en Vjetnamio. Kaj, kiel movo (eĉ malgranda) de radio-regulilo tuj agordas onin al alia ondo, ankaŭ ĉi-okaze ĉio aliiĝos, la percepto malos. La knaboj aspektos murdistoj, iliaj moroj — krudaĵoj. Kaj la bildo de vulgarulino en naĝkostumo iĝos simbolo: jen por kiaj idealoj, por kia kulturo tiuj fiuloj flugis el-post la oceano pereigi la popolon, luktantan por la libero, por la homa digno”.
+
+Jen kiom profunde povas ŝanĝiĝi tuta arta sistemo, se ŝanĝiĝas “subakva” parto — scioj.
+
+Kiam tiuj scioj pri la objekto nur komencas ŝanĝiĝi, nekomprenon de la arta sistemo, konstruita surbaze de tiuj scioj, oni ofte opinias simptomo de malbona gusto, malbona eduko. Por reprezentantoj de antaŭa generacio (kiuj ankoraŭ memoras la objekton, aŭ opinias, ke memoras) tio estas bona preteksto rezonadi pri malbona junularo (kiu jam ne scias, aŭ imagas alie).
+
+Kiam scioj malaperas definitive, oni opinias malbona gusto rememorigon pri ili. Provu aludi al “intelektuloj” ke, ekzemple, “Hamlet” neniel estis “pinto de la spirito”. Ke ĝi estis ordinara feŭda “krimhistorio” kun ĉiuj konformaj atributoj — venĝo, dueloj, fantomo. Tamen, spite la protestojn de nia “arta sento”, estas efektive tiel ĉi. La aŭtoro metis en la verkon nenion alian. Sed malaperis scioj pri feŭda venĝo, kaj novaj tempoj alportis novajn sciojn, montri kiujn evidentiĝis eble per la samaj verkoj. Fakte, ĉion, kion ni nun trovas en tiu verko, metis tien ni mem. Ni estas la aŭtoroj de la nuna “Hamlet”.
+
+Eĉ pli komplika ekzemplo estas alia klasikaĵo — “Don Kiĥot”. La “socia opinio” atribuas al la sinjoro la superajn moralajn ecojn — jen la imitinda ekzemplo! “La mondo bezonas Don Kiĥot-ojn!” — jen simbolo de altspiriteco... Kaj ne multaj scias, ke la romano parodias abundajn tiuepoke kavalirajn romanojn, kaj la aŭtoro efektive prezentis frenezulon sed ne altspiritulon... Kaj eĉ pli raras tiuj, kiuj scias, kial tamen la romano donas “enciklopedian” bildon pri la lando kaj la epoko — kio tute ne bezonatas en parodio. Jes, Don Kiĥot estas frenezulo batalanta por justeco, kaj la romano prezentas la socion, kie pri justeco memoras nur frenezuloj. Atentu nun, kiel ĉarme aspektas la rezonadoj pri “bezono de Don Kiĥotoj” — kia estas tiu mondo...
+
+Sed ni flankenlasis glacimontajn sukampojn. En ili estas ankoraŭ multo interesa. Ekzemple, kion fari, se la konsumanto ne povas havi la necesajn sciojn? Evidentiĝis, ke solvoj ekzistas. La plej simpla — krei la necesajn sciojn anticipe.
+
+En filmo “Kirasŝipo Potjomkin” ribelantaj ŝipanoj ĵetas en maron la ŝipan kuraciston. Fine de la filmo necesis rememorigi la spektantojn pri tiu epizodo. Reĝisoro S. Ejzenŝtejn rememoris, ke komence ili filmis kadavron de la kuracisto, kiun ondoj puŝis sur bordon. Sed tuj iĝis klare, ke la epizodo ekstreme banalas. Necesis io alia. Nun ni scias, ke oni devas konstrui glacimontan sukampon surbaze de la kuracisto, uzante, kiel instrumenton, elementon de la kuracisto mem. Post kelkaj semajnoj da streĉa variantumo Ejzenŝtejn venis al jena solvo: en la necesa momento oni vidas nazpinĉilon de la kuracisto, kroĉiĝintan al rando de la ŝipo. Sed spektanto ja ne komprenus, de kie aperis la nazpinĉilo. Por garantii tiun scion Ejzenŝtejn enigis la nazpinĉilon anticipe. Kelkfoje ni vidas ĝin konekse kun la kuracisto, kaj nur kun li. La epizodo estas unu el la plej efikaj en la filmo.
+
+Alia, pli fajna metodo estas konstrui ĉenan glacimontan sukampon. Tiu metodo speciale bonas, se la instrumento estas plursignifa, se oni povas trakti ĝin alie, ol tion volus la aŭtoro. Tiam oni konstruas sur la sama “subakva” objekto ankoraŭ sukampon “el alia flanko”.
+
+Speciale, kiel S₃ oni ofte uzas titolon de la verko. Tiusence interesa estas versaĵo de salvadora poeto Tirso Kanales.
+
+“Onklino Soledad, mi nun rememoras
+viajn orecajn kazefritaĵojn...
+Neniu en Los Planes de Renderos
+povis egali al vi
+en la arto fari la manĝaĵon
+bongusta kaj apetitveka...
+Mastrino de la tablo,
+antikva enciklopedio de odoroj,
+fiero de nia familio.
+Sinjorino miraklulino,
+sorĉistino de aromoj,
+fluantaj el sino de hejma pasto...”
+
+Ŝajnas, ke estas nenio speciala. Ordinara rememoro, kiujn havas ĉiuj el ni pri onklino, avino, k.t.p. La “subakvaĵo”, almenaŭ celata de l’ aŭtoro, ne videblas.
+
+Kaj nun la titolo: “Malsato en prizono”.
+
+Ankoraŭ ekzemplo.
+
+Ordenojn projektas pentristoj. Tiel pentristo Teljatnikov en 1942 devis projekti ordenon “Aleksandr Nevskij”. Sur ŝi nepre devis esti profilo de la princo en kasko. Bedaŭrinde, en arkivoj estis nek portretoj, nek priskriboj de A.Nevskij. Abstrakta profilo en kasko povus signifi iun ajn.
+
+Vi, verŝajne, jam konjektis pri la solvo. Pri la necesa resurso ni rakontis en tiu ĉi artikolo. Filmo “Aleksandr Nevskij”! Efektive, sur la ordeno estas profilo de aktoro Nikolaj Ĉerkasov, rolinta la princon en la filmo.
+
+Glacimontaj sukampoj, eĉ plej simplaj, estas kelkoble pli efikaj ol ordinaraj. Intuicie tion sentis pluraj artistoj. En rememoroj de I. Repin ni trovas jenon. Sur la unua varianto de fama pentraĵo “Burlakoj en Volga” estis pikniko de aristokratoj; Repin volis montri la kulpulojn pri la mizera stato de burlakoj. En la fina varianto la pikniko malaperis, “subakviĝis”.
+
+Rentgenoskopia analizo de pentraĵo de V. Surikov “Mateno de streleca ekzekuto” montris, ke la pentristo komence desegnis pendumitajn strelecojn, sed poste forigis ilin.
+
+Intencis transiri al glacimonta sukampo fama rusa aktoro L. Leonidov. En letero al Stanislavskij li skribis: “Inter alie, mi volas strangoli Desdemona-n post ŝirmilo, laŭ mi tio estas pli timiga.”
+
+Glacimonta formo estas la sorto de ĉiu arta sistemo, neevitebla, laŭleĝa etapo de evoluo. Kaj se oni konstruis eĉ la plej belan artan sistemon, ĉiam indas kontroli, ĉu eblas forigi la objekton, konstruinte simplan aŭ ĉenan glacimontan sukampon.
+
+Nun ni povas resumi materialon de kelkaj artikoloj kaj skizi la ĝeneralan linion en evoluo de artaj sistemoj.
+
+Tiu linio respegulas ankoraŭ unu leĝon:
+
+Evoluo de artaj sistemoj okazas kun plialtigo de grado de sistemeco, interdependo de la elementoj.
+
+Glacimonta sukampo estas la lasta, kion kapablas arta sistemo. Tio estas supera, la plej forta formo, kaj samtempe simptomo de proksima morto de la sistemo, ĝia bela agonio. Scioj, surbaze de kiuj ekzistas glacimonto, malaperas, la “subakvaĵo” degelas, la sistemo ĉesas efiki al la konsumanto. Tia estas la sorto de senescepte ĉiuj sistemoj. Malaltrangaj sistemoj (simpla metaforo, figuro) vivas tre mallonge, pli altrangaj (ekz. verko aŭ ĝenro) — pli longe, sed eterne vivas nenio, eĉ specoj de arto.
+
+Oni povas demandi: sekve, per kio finiĝas la evoluo, pri kies senfineco tiom insistas la aŭtoroj? Jes, finiĝas. Kaj tamen ne finiĝas.
+
+Tio ne estas absurdo, febro de amuziĝantaj aŭtoroj. Tio estas normala ordinara kontraŭaĵo, kiu akompanas la arton dum la tuta historio. Ĝin ni solvos sekvafoje. Kaj nun — tradicia hejm-tasko.
+
+Tasko. Antikva greka pentristo Timomah intencis pentri faman miton pri Ajaks. Ajaks-on dioj portempe frenezigis; bovoj kaj ŝafoj ŝajnis al li malamikoj, kaj li neniigis la tutan gregon. Post rekonsciiĝo Ajaks ege afliktiĝis pro la farito. Ŝajne, estas facile pentri tiun frenezan atakon. Sed reguloj de antikva arto malpermesis montri fortajn sentojn, ĉar tio malbeligas la vizaĝojn. Kion faru la pentristo?
+
