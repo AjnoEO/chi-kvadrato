@@ -1,5 +1,5 @@
 # chi-kvadrato
-Репозиторий исследовательского проекта "чи-квадрат" о положении проксимальной частицы "ĉi" в эсперанто
+Репозиторий исследовательского проекта "чи-квадрат" о положении проксимальной частицы "ĉi" в эсперанто    
 Dosierujo por la esplorprojekto "chi-kvadrato" pri la pozicio de la Esperanta proksimecmontra vorteto "ĉi"
 
 - [Таблица](https://docs.google.com/spreadsheets/d/1vPxW0wUHvINvjZtWAjvJkMS1EPqm3FLekRNi-yFKqnU/edit?usp=sharing), в которой мы работали с данными || [La tabelo](https://docs.google.com/spreadsheets/d/1vPxW0wUHvINvjZtWAjvJkMS1EPqm3FLekRNi-yFKqnU/edit?usp=sharing), en kiu ni traktis la datumojn (en la rusa)
